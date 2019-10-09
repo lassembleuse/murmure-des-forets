@@ -1,0 +1,43 @@
+<footer class="footer is-dark">
+  <div class="container">
+    <div class="columns menu-columns is-multiline">
+      <div class="column is-one-third">
+        <ul class="">
+          {{ range .Site.Menus.footer }}
+          {{ $text := print .Name | safeHTML }}
+          <li>
+            <a class="" href="{{ .URL }}">{{ $text }}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="column is-one-third"></div>
+      <div class="column is-one-third">
+        <p>
+          {{ with .Site.Data.global.nom_entreprise }} 
+            {{.Site.Data.global.nom_entreprise}}
+            <br>
+          {{ end }}
+          {{ with .Site.Data.global.adresse_entreprise }}
+            {{.Site.Data.global.adresse_entreprise}}
+            <br>
+          {{ end }}
+          {{ with .Site.Data.global.ville_entreprise }}
+            {{.Site.Data.global.ville_entreprise}}
+          {{ end }}
+        </p>
+        <p>
+          {{ with .Site.Data.global.email_entreprise }}
+          <i class="far fa-envelope mr-1"></i>
+          <a href="mailto:{{ . }}">{{ . }}</a>
+          {{ end }}
+          <br>
+          {{ with .Site.Data.global.telephone_entreprise }}
+          <i class="fas fa-phone mr-1"></i>
+          <a href="tel:{{ . }}">{{ . }}</a>
+          {{ end }}
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,6 @@
+baseURL: https://www.example.com
+languageCode: fr-fr
+title: Site de demonstration
+theme: bulma-theme
+DefaultContentLanguage: fr
+metaDataFormat: "yaml"

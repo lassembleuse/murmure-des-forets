@@ -1,0 +1,30 @@
+<header class="header">
+  <nav class="navbar is-primary">
+    <div class="container">
+      <div class="navbar-brand brand-title">
+        {{ $logo := resources.Get "images/logo.svg" }}
+        <a class="navbar-item" href="{{ .Site.BaseURL }}">
+          <img class="" src="{{ $logo.Permalink }}"
+            alt="logo">
+        </a>
+        <div class="navbar-burger burger" data-target="navbar-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+      
+      <div id="navbar-menu" class="navbar-menu">
+        <div class="navbar-end">
+          {{ $current := . }}
+          {{ range .Site.Menus.main }}
+            {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
+            {{ $active = or $active (eq .Page $current) }}
+            {{ $text := print .Name | safeHTML }}
+            <a class="navbar-item {{ if $active }}active{{ end }}" href="{{ .URL }}">{{ $text }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
