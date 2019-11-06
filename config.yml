@@ -1,4 +1,4 @@
-baseURL: https://www.example.com
+baseURL: https://lassembleuse.github.io/hugo-starter/
 languageCode: fr-fr
 title: Site de demonstration
 theme: bulma-theme
