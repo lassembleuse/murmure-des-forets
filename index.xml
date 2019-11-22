@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page d&#39;accueil on Site de demonstration</title>
+    <link>https://lassembleuse.github.io/hugo-starter/</link>
+    <description>Recent content in Page d&#39;accueil on Site de demonstration</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 12 Jul 2019 11:09:39 +0200</lastBuildDate>
+    
+	<atom:link href="https://lassembleuse.github.io/hugo-starter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>https://lassembleuse.github.io/hugo-starter/article/second/</link>
+      <pubDate>Tue, 08 Oct 2019 18:45:08 +0200</pubDate>
+      
+      <guid>https://lassembleuse.github.io/hugo-starter/article/second/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
