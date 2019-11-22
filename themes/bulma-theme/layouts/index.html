@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main aria-role="main">
-  <section class="hero is-light is-bold is-medium">
+  <!-- <section class="hero is-light is-bold is-medium">
     <div class="hero-body">
       <div class="container">
         <h1 class="title is-spaced">
@@ -8,12 +8,22 @@
         </h1>
       </div>
     </div>
-  </section>
+  </section> -->
   <section class="section">
     <div class="container">
-      {{- range first 10 .Data.Pages }}
+      <div class="content ">
+        <div class="columns is-centered">
+          <div class="column is-half has-text-centered">
+            {{ $logo := resources.Get "images/logo.png" }}
+              <img class="mb-5" src="{{ $logo.Permalink }}" alt="logo murmure des forêts">
+
+            {{ .Content}}
+          </div>
+        </div>
+      </div>
+      <!-- {{- range first 10 .Data.Pages }}
         {{ .Render "card"}}
-      {{- end }}
+      {{- end }} -->
     </div>
   </section>
 </main>

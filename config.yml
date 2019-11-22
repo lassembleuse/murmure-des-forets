@@ -4,3 +4,7 @@ title: Site de demonstration
 theme: bulma-theme
 DefaultContentLanguage: fr
 metaDataFormat: "yaml"
+blackfriday:
+  smartypantsQuotesNBSP: true
+  extensions:
+  - hardLineBreak
