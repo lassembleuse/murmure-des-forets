@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lassembleuse.github.io/murmure-des-forets/article/</loc>
+    <loc>http://www.murmuredesforets.fr/article/</loc>
     <lastmod>2019-10-08T18:45:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lassembleuse.github.io/murmure-des-forets/article/second/</loc>
+    <loc>http://www.murmuredesforets.fr/article/second/</loc>
     <lastmod>2019-10-08T18:45:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lassembleuse.github.io/murmure-des-forets/</loc>
+    <loc>http://www.murmuredesforets.fr/</loc>
     <lastmod>2019-07-12T11:09:39+02:00</lastmod>
     <priority>0.9</priority>
   </url>
   
   <url>
-    <loc>https://lassembleuse.github.io/murmure-des-forets/categories/</loc>
+    <loc>http://www.murmuredesforets.fr/categories/</loc>
   </url>
   
   <url>
-    <loc>https://lassembleuse.github.io/murmure-des-forets/tags/</loc>
+    <loc>http://www.murmuredesforets.fr/tags/</loc>
   </url>
   
 </urlset>
