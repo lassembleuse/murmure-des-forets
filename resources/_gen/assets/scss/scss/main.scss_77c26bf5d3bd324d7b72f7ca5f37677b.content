@@ -8979,7 +8979,7 @@ a.navbar-item,
   flex-grow: 0;
   flex-shrink: 0; }
   .navbar-item img {
-    max-height: 1.75rem; }
+    max-height: 5.5rem; }
   .navbar-item.has-dropdown {
     padding: 0; }
   .navbar-item.is-expanded {
@@ -12112,5 +12112,8 @@ label.panel-block {
     margin-left: 3rem; }
   .pl-xl-5 {
     padding-left: 3rem; } }
+
+.navbar-brand .navbar-item {
+  padding: 0; }
 
 /*# sourceMappingURL=main.css.map */
