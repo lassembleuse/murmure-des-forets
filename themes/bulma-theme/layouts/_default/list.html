@@ -2,14 +2,16 @@
 
 <section class="section">
   <div class="container">
-
-<div class="columns is-multiline">
-  {{ range $index, $element := .Pages }}
-  <div class="column">
-    {{ .Render "card"}}
-  </div>
-  {{ end }}
-</div>
+    <h1 class="title is-spaced">
+      {{ .Title }}
+    </h1>
+    <div class="columns is-multiline">
+      {{ range $index, $element := .Pages }}
+      <div class="column is-4">
+        {{ .Render "card"}}
+      </div>
+      {{ end }}
+    </div>
 
   </div>
 </section>

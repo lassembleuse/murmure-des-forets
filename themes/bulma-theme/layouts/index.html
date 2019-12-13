@@ -11,19 +11,25 @@
   </section> -->
   <section class="section">
     <div class="container">
-      <div class="content ">
-        <div class="columns is-centered">
-          <div class="column is-half has-text-centered">
-            {{ $logo := resources.Get "images/logo.png" }}
-              <img class="mb-5" src="{{ $logo.Permalink }}" alt="logo murmure des forêts">
-
-            {{ .Content}}
-          </div>
-        </div>
+      <!-- Actualites -->
+      <div class="has-text-centered title my-5">
+        <h2>Nos dernières actualités</h2>
       </div>
-      <!-- {{- range first 10 .Data.Pages }}
+      <div class="columns">
+        {{ $actualites := where .Site.RegularPages "Type" "actualite" }}
+        {{ range $index, $element := first 3 ( $actualites ) }}
+        <div class="column is-4">
+          {{ .Render "card"}}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      {{- range first 10 .Data.Pages }}
         {{ .Render "card"}}
-      {{- end }} -->
+      {{- end }}
     </div>
   </section>
 </main>

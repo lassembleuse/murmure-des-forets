@@ -1,0 +1,3 @@
+  {{ $imageResource := (site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .path ) }}
+  {{ $pic := $imageResource.Resize .dimension }}
+  <img src="{{ $pic.Permalink }}" alt="{{ .alt }}">
