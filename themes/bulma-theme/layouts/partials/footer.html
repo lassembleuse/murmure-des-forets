@@ -13,31 +13,38 @@
       </div>
       <div class="column is-one-third"></div>
       <div class="column is-one-third">
+        <h4 class="title is-5">Contact</h4>
         <p>
-          {{ with .Site.Data.global.nom_entreprise }} 
-            {{.Site.Data.global.nom_entreprise}}
+          {{ with .Site.Data.global.nom_organisation }} 
+            {{.}}
             <br>
           {{ end }}
-          {{ with .Site.Data.global.adresse_entreprise }}
-            {{.Site.Data.global.adresse_entreprise}}
+          {{ with .Site.Data.global.adresse_organisation }}
+            {{.}}
             <br>
           {{ end }}
-          {{ with .Site.Data.global.ville_entreprise }}
-            {{.Site.Data.global.ville_entreprise}}
+          {{ with .Site.Data.global.ville_organisation }}
+            {{.}}
           {{ end }}
         </p>
         <p>
-          {{ with .Site.Data.global.email_entreprise }}
-          <i class="far fa-envelope mr-1"></i>
+          {{ with .Site.Data.global.email_organisation }}
           <a href="mailto:{{ . }}">{{ . }}</a>
           {{ end }}
+
+          {{ with .Site.Data.global.telephone_organisation }}
           <br>
-          {{ with .Site.Data.global.telephone_entreprise }}
-          <i class="fas fa-phone mr-1"></i>
           <a href="tel:{{ . }}">{{ . }}</a>
+          {{ end }}
+          <br>
+        </p>
+        <p class="mt-2">
+          {{ with .Site.Data.global.lien_newsletter }}
+          <a href="{{ . }}" target="_blank">S'inscrire à la newsletter</a>
           {{ end }}
         </p>
       </div>
+
     </div>
   </div>
 </footer>

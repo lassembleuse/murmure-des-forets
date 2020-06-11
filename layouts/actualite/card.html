@@ -4,12 +4,19 @@
     <div class="card-image">
       {{ with .Params.picture }}
       {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-      {{ $pic := $imageResource.Resize "400x"}}
+      {{ $pic := $imageResource.Fill "600x400"}}
       <img src="{{ $pic.Permalink }}" alt="image {{$.Title }}">
       {{ end }}
     </div>
     <div class="card-content">
-      <h4>{{ .Title }}</h4>
+      <h4 class="title is-5">{{ .Title }}</h4>
+      <div class="content">
+        {{ with .Params.event_date }}
+        <div>
+          <span class="has-text-weight-bold">Date : </span> {{ . }}
+        </div>
+      {{ end}}
+      </div>
     </div>
   </div>
 </a>

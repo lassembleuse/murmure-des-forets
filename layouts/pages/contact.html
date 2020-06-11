@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<section class="section ">
+  <div class="container has-text-centered">
+    <h1 class="title is-2">{{ .Title }}</h1>
+              {{ with .Site.Data.global.email_organisation }}
+          <a href="mailto:{{ . }}">{{ . }}</a>
+          {{ end }}
+  </div>
+</section>
+
+
+
+{{ end }}

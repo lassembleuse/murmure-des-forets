@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<section class="section ">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-6 is-offset-3">
+        <h1 class="title is-2 has-text-centered">
+          {{ .Title }}
+        </h1>
+        {{ partial "image.html" (dict "path" .Params.picture "alt" "image" "dimension" "900x") }}
+        <div class="content mt-4">
+          {{ .Content }}
+        </div>
+        <p class="subtitle is-6 has-text-right">
+          Rédigé le <time datetime="{{ dateFormat "2006-01-02" .Date }}">
+            {{ .Date.Day }} {{ index $.Site.Data.mois.short (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+          </time>
+        </p>
+      </div>
+      {{ if or .Params.lieu .Params.event_date }}
+        <div class="column is-3">
+          <div class="notification">
+            {{ with .Params.event_date }}
+              <div>
+                <span class="has-text-weight-bold">Date : </span> {{ . }}
+              </div>
+            {{ end}}
+            {{ with .Params.lieu }}
+            <div>
+
+              <span class="has-text-weight-bold">Lieu : </span> {{ . }}
+            </div>
+            {{ end}}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,78 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <!-- <section class="hero is-light is-bold is-medium">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title is-spaced">
+          {{ .Title }}
+        </h1>
+      </div>
+    </div>
+  </section> -->
+    <section class="section mt-3">
+      <div class="container">
+        <!-- Blocks -->
+
+        {{ $blocks := .Params.blocks }}
+        {{ range $index, $element :=  $blocks }}
+
+          <div class="home-card mt-5">
+            <div class="columns">
+
+              {{ if (mod $index 2) 0}}
+                <div class="column is-narrow">
+                  {{ partial "image.html" (dict "path" .picture "alt" "image" "dimension" "500x") }}
+                </div>
+                <div class="column">
+                  <h4 class="title">{{ .titre }}</h4>
+                  <div class="content">{{ .description  | markdownify }}</div>
+                </div>
+
+              {{ else }}
+                <div class="column">
+                  <h4 class="title">{{ .titre }}</h4>
+                  <div class="content">{{ .description  | markdownify }}</div>
+                </div>
+                <div class="column is-narrow">
+                  {{ partial "image.html" (dict "path" .picture "alt" "image" "dimension" "500x") }}
+                </div>
+              {{ end }}
+
+            </div>
+          </div>
+        {{ end }}
+
+      </div>
+    </section>
+    <section class="section">
+      <div class="container">
+        <!-- Actualites -->
+        <div class="has-text-centered title my-5">
+          <h2>Nos dernières actualités</h2>
+        </div>
+        <div class="columns">
+          {{ $actualites := where .Site.RegularPages "Type" "actualite" }}
+          {{ range $index, $element := first 3 ( $actualites ) }}
+            <div class="column is-4">
+              {{ .Render "card"}}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    {{ if (eq .Params.temporary_block.afficher true)}}
+      {{ with .Params.temporary_block }}
+        <section class="section">
+          <div class="container is-tablet-width">
+            <div class="notification content is-italic">
+              <h4 class="title">{{ .titre }}</h4>
+              <div class="content">{{ .description  | markdownify }}</div>
+            </div>
+          </div>
+        </section>
+      {{ end }}
+    {{ end }}
+
+  </main>
+{{ end }}

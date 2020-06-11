@@ -1,10 +1,14 @@
 baseURL: http://www.murmuredesforets.fr/
 languageCode: fr-fr
-title: Site de demonstration
+title: Murmure des forêts
 theme: bulma-theme
 DefaultContentLanguage: fr
 metaDataFormat: "yaml"
+removePathAccents: true
 blackfriday:
   smartypantsQuotesNBSP: true
   extensions:
   - hardLineBreak
+
+permalinks:
+  actualites: /:year/:month/:title/

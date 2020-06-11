@@ -7,7 +7,7 @@
 </section>
 
 <section class="section">
-  <div class="container">
+  <div class="container is-tablet-width">
     <header class="has-text-centered mb-5">
       <h2 class="title is-3 is-title-font">{{ .Params.mdf_title }}</h2>
     </header>
@@ -16,7 +16,6 @@
         {{ partial "image.html" (dict "path" .Params.mdf_picture "alt" "logo la serre" "dimension" "300x") }}
       </div>
       <div class="column">
-        <h2 class="title is-3 is-title-font has-text-white">{{ .Params.why_title }}</h2>
         <div class="content">
           <p>{{ .Params.mdf_content | markdownify }}</p>
         </div>
@@ -26,13 +25,12 @@
 </section>
 
 <section class="section">
-  <div class="container">
+  <div class="container is-tablet-width">
     <header class="has-text-centered mb-5">
       <h2 class="title is-3 is-title-font">{{ .Params.sdhhz_title }}</h2>
     </header>
     <div class="columns">
       <div class="column">
-        <h2 class="title is-3 is-title-font has-text-white">{{ .Params.why_title }}</h2>
         <div class="content">
           <p>{{ .Params.sdhhz_content | markdownify }}</p>
         </div>
@@ -44,39 +42,37 @@
   </div>
 </section>
 
+
 <section class="section">
-  <div class="container">
+  <div class="container is-tablet-width">
     <header class="has-text-centered mb-5">
-      <h2 class="title is-3 is-title-font">{{ .Params.amans_title }}</h2>
+      <h2 class="title is-3 is-title-font">{{ .Params.sonia_title }}</h2>
     </header>
     <div class="columns">
       <div class="column is-narrow">
-        {{ partial "image.html" (dict "path" .Params.amans_picture "alt" "logo la serre" "dimension" "300x") }}
+        {{ partial "image.html" (dict "path" .Params.sonia_picture "alt" "logo la serre" "dimension" "300x") }}
       </div>
       <div class="column">
-        <h2 class="title is-3 is-title-font has-text-white">{{ .Params.why_title }}</h2>
         <div class="content">
-          <p>{{ .Params.amans_content | markdownify }}</p>
+          <p>{{ .Params.sonia_content | markdownify }}</p>
         </div>
       </div>
     </div>
   </div>
 </section>
-
 <section class="section">
-  <div class="container">
+  <div class="container is-tablet-width">
     <header class="has-text-centered mb-5">
-      <h2 class="title is-3 is-title-font">{{ .Params.sonia_title }}</h2>
+      <h2 class="title is-3 is-title-font">{{ .Params.amans_title }}</h2>
     </header>
     <div class="columns">
       <div class="column">
-        <h2 class="title is-3 is-title-font has-text-white">{{ .Params.why_title }}</h2>
         <div class="content">
-          <p>{{ .Params.sonia_content | markdownify }}</p>
+          <p>{{ .Params.amans_content | markdownify }}</p>
         </div>
       </div>
       <div class="column is-narrow">
-        {{ partial "image.html" (dict "path" .Params.sonia_picture "alt" "logo la serre" "dimension" "300x") }}
+        {{ partial "image.html" (dict "path" .Params.amans_picture "alt" "logo la serre" "dimension" "300x") }}
       </div>
     </div>
   </div>
