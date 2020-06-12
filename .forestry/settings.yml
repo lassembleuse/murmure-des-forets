@@ -4,16 +4,15 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  path: content/_index.md
+  label: Page d'accueil
+  match: "**/*"
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/uploads
-  label: Uploads
-  create: all
-  match: "**/*"
 - type: directory
   path: content/pages
   label: Pages
@@ -28,6 +27,11 @@ sections:
   path: content/actualite
   label: Actualite
   create: all
+  match: "**/*"
+- type: directory
+  path: content/uploads
+  label: Images et documents
+  create: documents
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
