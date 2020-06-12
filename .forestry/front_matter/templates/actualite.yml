@@ -17,3 +17,5 @@ fields:
 - type: text
   name: event_date
   label: Date de l'événement
+pages:
+- content/actualite/quotidien-renouveau-2020-07.md

@@ -1,12 +1,11 @@
 ---
-date: "2020-05-10T20:44:41+01:00"
-title: "Quotidien et renouveau 2020"
-draft: false
+date: 2020-05-10T20:44:41+01:00
+title: Quotidien et renouveau 2020
 picture: "/uploads/triton zad.jpg"
 lieu: Zad Notre dame des landes
 event_date: 27-31 juillet
----
 
+---
 Murmure des forêts propose pour la troisième fois cet Atelier « **Quotidien & Renouveau** » du **27 au 31 juillet**, co-facilité par Sonia chevrel et Amans gaussel à la **Wardine à Notre dame des landes**.
 
 
