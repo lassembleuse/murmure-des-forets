@@ -3,12 +3,6 @@ label: configuration
 hide_body: true
 fields:
 - type: text
-  name: slogan_accueil
-  label: slogan_accueil
-- type: text
-  name: sous_slogan_accueil
-  label: sous_slogan_accueil
-- type: text
   name: nom_organisation
   label: nom_organisation
 - type: text
