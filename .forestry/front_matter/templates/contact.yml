@@ -1,0 +1,13 @@
+---
+label: contact
+hide_body: true
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
