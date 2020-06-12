@@ -1,6 +1,6 @@
 ---
 label: contact
-hide_body: true
+hide_body: false
 display_field: title
 fields:
 - type: text
@@ -8,3 +8,5 @@ fields:
   label: Titre
 pages:
 - content/pages/contact.md
+- content/pages/mentions.md
+- content/pages/sitemap.md
