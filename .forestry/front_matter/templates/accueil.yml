@@ -1,0 +1,43 @@
+---
+label: accueil
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group_list
+  name: blocks
+  label: blocks
+  fields:
+  - type: text
+    name: titre
+    label: titre
+  - type: textarea
+    name: description
+    label: description
+  - type: file
+    name: picture
+    label: picture
+- type: field_group
+  name: temporary_block
+  label: temporary_block
+  fields:
+  - type: text
+    name: titre
+    label: titre
+  - type: textarea
+    name: description
+    label: description
+  - type: boolean
+    name: afficher
+    label: afficher
+- type: field_group
+  name: sitemap
+  label: sitemap
+  fields:
+  - type: number
+    name: priority
+    label: priority
