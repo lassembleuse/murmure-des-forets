@@ -2,48 +2,46 @@
 label: presentation
 hide_body: true
 fields:
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: title
-  label: title
-- type: text
-  name: layout
-  label: layout
+  label: Titre
 - type: text
   name: mdf_title
-  label: mdf_title
+  label: Murmure des forêts - titre
 - type: textarea
   name: mdf_content
-  label: mdf_content
+  label: Murmure des forêts - description
 - type: file
   name: mdf_picture
-  label: mdf_picture
+  label: Murmure des forêts - image
 - type: datetime
   name: sdhhz_title
-  label: sdhhz_title
+  label: 7,8Hz - titre
 - type: textarea
   name: sdhhz_content
-  label: sdhhz_content
+  label: 7,8Hz - description
 - type: file
   name: sdhhz_picture
-  label: sdhhz_picture
+  label: 7,8Hz - image
 - type: text
   name: amans_title
-  label: amans_title
+  label: Amans - titre
 - type: textarea
   name: amans_content
-  label: amans_content
+  label: Amans - description
 - type: file
   name: amans_picture
-  label: amans_picture
+  label: Amans - image
 - type: text
   name: sonia_title
-  label: sonia_title
+  label: Sonia - titre
 - type: textarea
   name: sonia_content
-  label: sonia_content
+  label: Sonia - description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: sonia_picture
-  label: sonia_picture
+  label: Sonia - image
