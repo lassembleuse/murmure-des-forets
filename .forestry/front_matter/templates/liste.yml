@@ -6,4 +6,5 @@ fields:
   name: title
   label: Titre
 pages:
+- content/actualite/_index.md
 - content/article/_index.md
