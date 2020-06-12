@@ -26,3 +26,5 @@ fields:
 - type: text
   name: seo_keywords
   label: seo_keywords
+pages:
+- data/global.yaml

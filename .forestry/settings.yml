@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "/admin"
+admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: document
@@ -34,11 +34,6 @@ sections:
 - type: document
   path: data/global.yaml
   label: Configuration
-- type: directory
-  path: content/uploads
-  label: Images et documents
-  create: documents
-  match: "**/*"
 upload_dir: content/uploads
 public_path: "/uploads"
 front_matter_path: ''

@@ -2,8 +2,8 @@
 slogan_accueil: 
 sous_slogan_accueil: 
 nom_organisation: Murmure des forêts
-adresse_organisation: 
-ville_organisation: 
+adresse_organisation: ''
+ville_organisation: ''
 email_organisation: murmuredesforets@riseup.net
 telephone_organisation: 06 95 90 40 38
 lien_newsletter: https://lists.riseup.net/www/subscribe/murmuredesforets

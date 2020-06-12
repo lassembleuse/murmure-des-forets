@@ -1,0 +1,45 @@
+{{/*
+    Generates a site map for humans where pages and posts are listed in
+    alphabetical order.
+*/}}
+
+<h2>Pages</h2>
+<ul>
+{{ range (or (where .Site.RegularPages.ByTitle ".Type" "pages") (where .Site.Pages.ByTitle ".Type" "pages")) }}
+    <li><article itemscope itemtype="http://schema.org/Blog">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </article></li>
+{{ end }}
+</ul>
+
+
+
+{{ $actualites_root :=.Site.GetPage "/actualites" }}
+<h2><a href="{{ $actualites_root.Permalink }}">Actualités</a></h2>
+<ul>
+  {{ range (where .Site.RegularPages.ByPublishDate ".Type" "actualites") }}
+    <li><article itemscope itemtype="http://schema.org/Blog">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </article></li>
+  {{ end }}
+</ul>
+
+{{ $projects_root :=.Site.GetPage "/projets" }}
+<h2><a href="{{ $projects_root.Permalink }}">Projets</a></h2>
+
+<ul>
+  {{ range $index, $promotion := ($projects_root.Pages).Reverse }}
+    <li><article itemscope itemtype="http://schema.org/Blog">
+      <a href="{{ $promotion.Permalink }}">{{ $promotion.Title }}</a>
+    </article></li>
+    <ul>
+      {{ range $index, $projet := ($promotion.Pages).ByTitle }}
+      <li><article itemscope itemtype="http://schema.org/Blog">
+        <a href="{{ $projet.Permalink }}">{{ $projet.Title }}</a>
+      </article></li>
+  {{ end }}
+</ul>
+  {{ end }}
+
+
+</ul>
