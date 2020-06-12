@@ -22,6 +22,10 @@ sections:
   label: Actualite
   create: all
   match: "**/*"
+- type: document
+  path: data/global.yaml
+  label: Configuration
+  match: "**/*"
 - type: directory
   path: content/uploads
   label: Images et documents
