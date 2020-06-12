@@ -4,16 +4,16 @@ hide_body: false
 fields:
 - type: datetime
   name: date
-  label: date
+  label: Date de publication
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: file
   name: picture
-  label: picture
+  label: Image
 - type: text
   name: lieu
-  label: lieu
+  label: Lieu
 - type: text
   name: event_date
-  label: event_date
+  label: Date de l'événement
