@@ -31,3 +31,5 @@ fields:
   - type: boolean
     name: afficher
     label: afficher
+pages:
+- content/_index.md
