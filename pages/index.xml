@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Murmure des forêts</title>
-    <link>http://www.murmuredesforets.fr/pages/</link>
+    <link>https://www.murmuredesforets.fr/pages/</link>
     <description>Recent content in Pages on Murmure des forêts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <lastBuildDate>Thu, 01 Aug 2019 13:17:31 +0000</lastBuildDate>
     
-	<atom:link href="http://www.murmuredesforets.fr/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.murmuredesforets.fr/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://www.murmuredesforets.fr/pages/contact/</link>
+      <link>https://www.murmuredesforets.fr/pages/contact/</link>
       <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
       
-      <guid>http://www.murmuredesforets.fr/pages/contact/</guid>
+      <guid>https://www.murmuredesforets.fr/pages/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qui sommes-nous ?</title>
-      <link>http://www.murmuredesforets.fr/pages/presentation/</link>
+      <link>https://www.murmuredesforets.fr/pages/presentation/</link>
       <pubDate>Thu, 01 Aug 2019 13:17:31 +0000</pubDate>
       
-      <guid>http://www.murmuredesforets.fr/pages/presentation/</guid>
+      <guid>https://www.murmuredesforets.fr/pages/presentation/</guid>
       <description></description>
     </item>
     
