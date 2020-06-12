@@ -1,0 +1,19 @@
+---
+label: actualite
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: file
+  name: picture
+  label: picture
+- type: text
+  name: lieu
+  label: lieu
+- type: text
+  name: event_date
+  label: event_date
