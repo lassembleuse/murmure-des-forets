@@ -57,3 +57,5 @@ fields:
 - type: file
   name: sonia_picture
   label: Sonia - image
+pages:
+- content/pages/presentation.md

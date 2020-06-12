@@ -1,0 +1,21 @@
+---
+label: actualite
+hide_body: false
+fields:
+- type: datetime
+  name: date
+  label: Date de publication
+- type: text
+  name: title
+  label: Titre
+- type: file
+  name: picture
+  label: Image
+- type: text
+  name: lieu
+  label: Lieu
+- type: text
+  name: event_date
+  label: Date de l'événement
+pages:
+- content/actualite/quotidien-renouveau-2020-07.md

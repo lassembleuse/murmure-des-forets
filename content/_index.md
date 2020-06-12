@@ -27,7 +27,7 @@ blocks :
       Dans l'onglet "Actualités", nous partageons nos propositions au fur et à mesure (en principe), et les archives demeurent pour se faire une idée de ce qui déjà a eu lieu.
     picture: "/uploads/petit bleu 3.JPG"
 temporary_block:
-  titre:  Site internet ?
+  titre: Site internet ?
   description: |-
     Nous écoutons les rumeurs du monde humain qui émerge là, au-delà et de toutes parts...
 

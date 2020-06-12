@@ -1,0 +1,10 @@
+---
+label: contact
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Titre
+pages:
+- content/pages/contact.md

@@ -1,0 +1,10 @@
+---
+label: liste
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Titre
+pages:
+- content/actualite/_index.md
+- content/article/_index.md

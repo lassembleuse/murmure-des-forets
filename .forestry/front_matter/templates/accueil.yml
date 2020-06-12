@@ -1,0 +1,35 @@
+---
+label: accueil
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Titre
+- type: field_group_list
+  name: blocks
+  label: blocks
+  fields:
+  - type: text
+    name: titre
+    label: titre
+  - type: textarea
+    name: description
+    label: description
+  - type: file
+    name: picture
+    label: image
+- type: field_group
+  name: temporary_block
+  label: block temporaire
+  fields:
+  - type: text
+    name: titre
+    label: titre
+  - type: textarea
+    name: description
+    label: description
+  - type: boolean
+    name: afficher
+    label: afficher
+pages:
+- content/_index.md

@@ -1,0 +1,28 @@
+---
+label: configuration
+hide_body: true
+fields:
+- type: text
+  name: nom_organisation
+  label: nom_organisation
+- type: text
+  name: adresse_organisation
+  label: adresse_organisation
+- type: text
+  name: ville_organisation
+  label: ville_organisation
+- type: text
+  name: email_organisation
+  label: email_organisation
+- type: text
+  name: telephone_organisation
+  label: telephone_organisation
+- type: text
+  name: lien_newsletter
+  label: lien_newsletter
+- type: text
+  name: seo_description
+  label: seo_description
+- type: text
+  name: seo_keywords
+  label: seo_keywords
