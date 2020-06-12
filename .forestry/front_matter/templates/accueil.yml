@@ -4,10 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
+  label: Titre
 - type: field_group_list
   name: blocks
   label: blocks
@@ -20,10 +17,10 @@ fields:
     label: description
   - type: file
     name: picture
-    label: picture
+    label: image
 - type: field_group
   name: temporary_block
-  label: temporary_block
+  label: block temporaire
   fields:
   - type: text
     name: titre
@@ -34,10 +31,3 @@ fields:
   - type: boolean
     name: afficher
     label: afficher
-- type: field_group
-  name: sitemap
-  label: sitemap
-  fields:
-  - type: number
-    name: priority
-    label: priority
