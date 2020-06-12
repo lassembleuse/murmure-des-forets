@@ -8,3 +8,4 @@ fields:
   label: Titre
 pages:
 - content/pages/contact.md
+- content/pages/mentions.md

@@ -1,5 +1,5 @@
 ---
-date: 2019-08-01T13:17:31.000+00:00
+date: '2019-08-01T13:17:31.000+00:00'
 title: Mentions légales
 menu:
   footer:
@@ -23,4 +23,3 @@ Site hébergé sur [Github Pages](https://pages.github.com/)
 ## Réutilisation des contenus
 
 Sauf mention contraire, les contenus de ce site sont sous licence [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/fr/)
-
