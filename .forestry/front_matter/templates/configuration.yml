@@ -20,7 +20,7 @@ fields:
 - type: text
   name: lien_newsletter
   label: lien_newsletter
-- type: text
+- type: textarea
   name: seo_description
   label: seo_description
 - type: text
