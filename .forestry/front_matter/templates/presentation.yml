@@ -1,0 +1,49 @@
+---
+label: presentation
+hide_body: true
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: mdf_title
+  label: mdf_title
+- type: textarea
+  name: mdf_content
+  label: mdf_content
+- type: file
+  name: mdf_picture
+  label: mdf_picture
+- type: datetime
+  name: sdhhz_title
+  label: sdhhz_title
+- type: textarea
+  name: sdhhz_content
+  label: sdhhz_content
+- type: file
+  name: sdhhz_picture
+  label: sdhhz_picture
+- type: text
+  name: amans_title
+  label: amans_title
+- type: textarea
+  name: amans_content
+  label: amans_content
+- type: file
+  name: amans_picture
+  label: amans_picture
+- type: text
+  name: sonia_title
+  label: sonia_title
+- type: textarea
+  name: sonia_content
+  label: sonia_content
+- type: file
+  name: sonia_picture
+  label: sonia_picture
