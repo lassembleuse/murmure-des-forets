@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: date
   label: Date de publication
+pages:
+- content/article/quotidien-renouveau.md
