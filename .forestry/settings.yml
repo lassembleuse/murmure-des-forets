@@ -12,16 +12,25 @@ sections:
   label: Pages
   create: all
   match: "**/*"
+  templates:
+  - presentation
+  - contact
 - type: directory
   path: content/article
   label: Article
   create: all
   match: "**/*"
+  templates:
+  - article
+  - liste
 - type: directory
   path: content/actualite
   label: Actualite
   create: all
   match: "**/*"
+  templates:
+  - actualite
+  - liste
 - type: document
   path: data/global.yaml
   label: Configuration
