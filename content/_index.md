@@ -18,7 +18,7 @@ blocks :
       
       Les ateliers et parcours que nous proposons sont transdisciplinaires et expérientiels. Le vécu collectif nous semble aussi important que les approches formelles. Nous veillons à l'équivalence, et à tenir une posture de co-facilitation ajustée aux réels besoins en présence.
       
-      Économiquement, jusqu'ici nous avons pratiqué la participation libre et consciente avec bonheur."
+      Économiquement, jusqu'ici nous avons pratiqué la participation libre et consciente avec bonheur.
     picture: "/uploads/forest-4395993_1920.jpg"
   - titre: Quatre saisons et co-créations
     description: |-
@@ -47,21 +47,3 @@ sitemap:
 #     name: Accueil
 #     weight: 1
 ---
-
-Le site internet de Murmure des forêts est en construction ([merci Claire !](https://www.lassembleuse.fr/))...
-
-
-<br>
-
-Mais vous pouvez d'ores et déjà :
-- recevoir toutes nos infos en vous inscrivant sur [la mail-liste, par ici chez les riseup cousins...](https://lists.riseup.net/www/info/murmuredesforets)  ;
-- ou nous contacter par téléphone (06 95 90 40 38) ou par courriel (murmuredesforets at riseup.net).
-
-
-C'est le meilleur moyen pour en savoir plus sur **les ateliers d'Imbolc** (1-2 février 2020, "Silence imaginaire"), **les ateliers de Beltaine** (1-2-3 mai 2020, "Nos corps, ces héros !"), et les autres nouvelles
-
-
-Vous pouvez aussi suivre les actualités de Sonia et d'Amans sur Facebook : [Communication consciente](https://www.facebook.com/communiquerenconscience/) & [Socioculture 3.0](https://www.facebook.com/Socioculture3.0/)...
-
-
-À bientôt !?

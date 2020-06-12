@@ -11,15 +11,23 @@ fields:
 - type: textarea
   name: mdf_content
   label: Murmure des forêts - description
+    config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: mdf_picture
   label: Murmure des forêts - image
-- type: datetime
+- type: text
   name: sdhhz_title
   label: 7,8Hz - titre
 - type: textarea
   name: sdhhz_content
   label: 7,8Hz - description
+    config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: sdhhz_picture
   label: 7,8Hz - image
@@ -29,6 +37,10 @@ fields:
 - type: textarea
   name: amans_content
   label: Amans - description
+    config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: amans_picture
   label: Amans - image
