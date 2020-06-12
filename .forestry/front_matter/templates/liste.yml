@@ -1,0 +1,17 @@
+---
+label: liste
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: field_group
+  name: sitemap
+  label: sitemap
+  fields:
+  - type: number
+    name: priority
+    label: priority
