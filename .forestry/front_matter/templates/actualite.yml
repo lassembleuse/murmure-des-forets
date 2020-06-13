@@ -18,4 +18,5 @@ fields:
   name: event_date
   label: Date de l'événement
 pages:
+- content/actualite/beltaine-et-solstice-de-confines.md
 - content/actualite/quotidien-renouveau-2020-07.md
