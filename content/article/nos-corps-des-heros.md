@@ -1,7 +1,6 @@
 ---
 title: Nos corps, des héros !?
 date: 2019-03-13T00:00:00+01:00
-draft: true
 
 ---
 En quoi le corps est-il si essentiel, un carrefour, un territoire à (re-)conquérir pour « transitionner » vers une société plus respectueuse du vivant sous toutes ses formes : sous quels angles pouvons-nous aborder ce navire, c’est-à-dire comment mettre en question cette thématique ?
