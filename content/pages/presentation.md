@@ -27,6 +27,7 @@ sonia_content: Mes différentes sources d'inspiration vont de la CNV à la danse
   artistique (clown, voix...), et tous mes vécus quotidiens d'écologie pratique et
   relationnelle
 sonia_picture: "/uploads/sonia sourit.jpg"
+weight: 3
 menu:
   main:
     weight: 3

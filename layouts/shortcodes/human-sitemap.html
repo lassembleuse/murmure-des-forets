@@ -1,0 +1,49 @@
+{{/*
+    Generates a site map for humans where pages and posts are listed in
+    alphabetical order.
+*/}}
+
+<ul>
+<li>
+  <article itemscope itemtype="http://schema.org/Blog">
+    <a href="{{ .Site.BaseURL }}">Accueil</a>
+  </article>
+</li>
+
+<li>
+  {{ $actualites_root :=.Site.GetPage "/actualite" }}
+  <a href="{{ $actualites_root.Permalink }}">Actualités</a>
+  <ul>
+    {{ range (where .Site.RegularPages.ByPublishDate ".Type" "actualite") }}
+      <li>
+        <article itemscope itemtype="http://schema.org/Blog">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </article>
+      </li>
+    {{ end }}
+  </ul>
+</li>
+
+<li>
+  {{ $articles_root :=.Site.GetPage "/article" }}
+  <a href="{{ $articles_root.Permalink }}">Articles</a>
+
+  <ul>
+    {{ range $index, $promotion := ($articles_root.Pages).Reverse }}
+      <li>
+        <article itemscope itemtype="http://schema.org/Blog">
+          <a href="{{ $promotion.Permalink }}">{{ $promotion.Title }}</a>
+        </article>
+      </li>
+    {{ end }}
+  </ul>
+</li>
+
+{{ range (or (where .Site.RegularPages.ByWeight ".Type" "pages") (where .Site.Pages.ByTitle ".Type" "pages")) }}
+  <li>
+    <article itemscope itemtype="http://schema.org/Blog">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </article>
+  </li>
+{{ end }}
+</ul>

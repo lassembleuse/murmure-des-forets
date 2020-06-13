@@ -39,5 +39,11 @@ temporary_block:
   afficher: true
 sitemap:
   priority: 0.9
-
+menu:
+  main:
+    name: Accueil
+    weight: 1
+  footer:
+    name: Accueil
+    weight: 1
 ---
