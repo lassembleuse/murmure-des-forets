@@ -11,7 +11,7 @@ menu:
 
 Murmure des Forêts
 
-Directeurs de la publication : Amans Gaussel et Sonia
+Directeurs de la publication : Amans et Sonia
 
 ## Hébergement
 
