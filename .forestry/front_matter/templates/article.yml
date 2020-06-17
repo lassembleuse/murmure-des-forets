@@ -9,6 +9,7 @@ fields:
   name: date
   label: Date de publication
 pages:
+- content/article/histoire-de-l-esprit-d-un-murmure-des-forets.md
 - content/article/nos-corps-des-heros.md
 - content/article/nos-emotions-de-l-intime-au-collectif.md
 - content/article/quotidien-renouveau.md
