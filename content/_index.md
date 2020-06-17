@@ -10,7 +10,7 @@ blocks:
 
     Notre ouvrage est la reliance en présence : tisser avec conscience le complexe écheveau du réel, fils entremêlés.
 
-    Nous détaillons quelques aspects de ce qui se trame ainsi entre les "dimensions", les différents "champs" de nos vies, dans l'onglet "Articles".
+    Nous détaillons quelques aspects de ce qui se trame ainsi entre les "dimensions", les différents champs de nos vies, dans l'onglet "Articles".
   picture: "/uploads/kids-planting-hands-800-849x300.jpg"
 - titre: Accompagnement à la transition
   description: |-
@@ -40,10 +40,11 @@ temporary_block:
 sitemap:
   priority: 0.9
 menu:
-  main:
-    name: Accueil
-    weight: 1
   footer:
     name: Accueil
     weight: 1
+  main:
+    name: Accueil
+    weight: 1
+
 ---
