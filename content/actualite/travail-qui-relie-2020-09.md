@@ -14,7 +14,4 @@ Nous avons décidé de fusionner cet atelier avec celui de la Samain : Émotions
 
 Murmure des forêts propose de faire se rencontrer ces deux pratiques, afin de vivre la « spirale » d’écologie profonde avec la qualité d’attention propre à la CNV holistique : deux jours pleins, répartis sur trois journées, pour prendre le temps de cette traversée.
 
-**Participation libre en conscience.**
-
-**Lieu et date en cours de définition (grand ouest)**  
-**Repas** coopératifs, détails de l’organisation à venir.
+**Lieux et dates à définir,** ainsi que les détails de l’organisation.
