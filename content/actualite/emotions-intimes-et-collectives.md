@@ -23,3 +23,5 @@ Pendant ces deux jours, nous cheminerons sur la spirale d'écologie profonde en 
 
 **Inscriptions :**  
 [https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967](https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967 "https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967")
+
+Bienvenue pour partager l'événement facebook : [https://fb.me/e/3PadFhcBj](https://fb.me/e/3PadFhcBj "https://fb.me/e/3PadFhcBj")
