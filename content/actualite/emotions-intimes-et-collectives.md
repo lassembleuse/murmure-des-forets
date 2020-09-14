@@ -21,6 +21,5 @@ Pendant ces deux jours, nous cheminerons sur la spirale d'écologie profonde en 
 
 **L'atelier aura lieu** à Kerslow (la Maliguen, 56430 Concoret) et à Ty Lizmaël (2 abbaye Penguily, 56 430 Mauron) du vendredi 30 octobre 2020 à 18h au dimanche 1er novembre à 17h.
 
-  
-**Inscriptions :  
-**<iframe src="[https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967](https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967 "https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967")" width="100%" height="800" border="0" ></iframe>
+Inscriptions :  
+<iframe src="[https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967](https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967 "https://framaforms.org/inscription-emotions-intimes-et-collectives-samain-2020-1579084967")" width="100%" height="800" border="0" ></iframe>
