@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2021-02-11T00:00:00+01:00
 title: CNV et TQR
 picture: "/uploads/nautiluscutawaylogarithmicspiral.jpg"
 lieu: "... à définir (peut-être sud Rennes)"
