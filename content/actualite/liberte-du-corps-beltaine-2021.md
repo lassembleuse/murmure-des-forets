@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2021-02-11T02:00:00+01:00
 title: Liberté du corps - Beltaine 2021
 picture: "/uploads/montage-beltaine-2019.jpg"
 lieu: "... à définir (Ouest)"
