@@ -13,4 +13,5 @@ Départ le vendredi en fin de journée, atterrissage dans l'après-midi du diman
 Tout change tout le temps bien sûr (et "quand je dis que je te connais, c'est de celui d'hier dont je parle" comme dit Vilma costetti... et c'est valable aussi pour nous-mêmeS d'ailleurs !) mais sur un week-end comme celui-là ça peut sembler un peu plus intense tout de même, quoi qu'à Murmure des forêts nous prenons toujours soin des besoins de douceur et de respect du rythme... autant que faire se peut du moins.
 
 Le lieu : [https://lagrangetheatre.fr/contact/](https://lagrangetheatre.fr/contact/ "https://lagrangetheatre.fr/contact/")  
-Le lien d'inscription : 
+Le lien d'inscription : [https://framaforms.org/inscriptions-travail-qui-relie-et-communication-non-violente-1583849807](https://framaforms.org/inscriptions-travail-qui-relie-et-communication-non-violente-1583849807 "https://framaforms.org/inscriptions-travail-qui-relie-et-communication-non-violente-1583849807")  
+Étant donnés le lieu et les actualités, nous limitons les participations à un groupe de 15 personnes maximum - nous compris.
