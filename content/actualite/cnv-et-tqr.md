@@ -14,4 +14,6 @@ Tout change tout le temps bien sûr (et "quand je dis que je te connais, c'est d
 
 Le lieu : [https://lagrangetheatre.fr/contact/](https://lagrangetheatre.fr/contact/ "https://lagrangetheatre.fr/contact/")  
 Le lien d'inscription : [https://framaforms.org/inscriptions-travail-qui-relie-et-communication-non-violente-1583849807](https://framaforms.org/inscriptions-travail-qui-relie-et-communication-non-violente-1583849807 "https://framaforms.org/inscriptions-travail-qui-relie-et-communication-non-violente-1583849807")  
-Étant donnés le lieu et les actualités, nous limitons les participations à un groupe de 15 personnes maximum - nous compris.
+Étant donnés le lieu et les actualités, nous limitons les participations à un groupe de 15 personnes maximum - nous compris.  
+  
+Sur le fond, vous pouvez aussi aller lire cet article publié il y a quelques mois et toujours bien en lien avec ce que nous vivons - et aussi, avec ce que nous proposons en l'occurrence d'accomplir collectivement : [https://www.murmuredesforets.fr/article/peur-panique-et-confiance-systemique/](https://www.murmuredesforets.fr/article/peur-panique-et-confiance-systemique/ "https://www.murmuredesforets.fr/article/peur-panique-et-confiance-systemique/")
