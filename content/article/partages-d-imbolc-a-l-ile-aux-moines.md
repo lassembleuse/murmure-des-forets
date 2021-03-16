@@ -1,7 +1,6 @@
 ---
 title: Partages d'Imbolc à l'île aux moines
 date: 
-draft: true
 
 ---
 recueil semi-collectif autour de l'atelier des 30-31 janvier 2021
