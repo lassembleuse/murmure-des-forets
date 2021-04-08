@@ -3,8 +3,7 @@ title: Quotidien et renouveau
 date: 2020-05-08T18:45:08.000+02:00
 
 ---
-Qu'accomplissons-nous, chaque jour, sans que cela soit ne soit applaudi, reconnu, ni même vu bien souvent par personne ? Beaucoup de services rendus à l'émergence du nouveau monde
-humain demeurent encore trop souvent inaperçus.  
+Qu'accomplissons-nous, chaque jour, sans que cela soit ne soit applaudi, reconnu, ni même vu bien souvent par personne ? Beaucoup de services rendus à l'émergence du nouveau monde humain demeurent encore trop souvent inaperçus.  
 Une mère prend soin de son petit dernier qui pleure en l'écoutant attentivement plutôt que de lui répondre "ça va passer", puis va s'asseoir à côté de l'aînée simplement sans lui dire a priori de faire ses devoirs ou de ranger sa chambre : ça peut sembler banal, mais c'est un des plus précieux ouvrages de ce temps. Applaudit-on aussi volontiers l’effort de compostage que l'exploit de qui traverse la mer à la nage ou le succès de qui écrit un best-seller ?  
 Invisibilisées, minoritaires, sans rémunérations ni médiatisations, non prises en compte dans le PNB, toutes ces attentions, actions ou non-actions intégrées dans nos quotidiens nécessitent pourtant d'être honorées à leur juste valeur pour cultiver les forces nécessaire à leur pérennité.
 
