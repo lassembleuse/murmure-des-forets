@@ -4,7 +4,6 @@ title: Lugnasad 2021 - Renouveau & quotidien
 picture: "/uploads/chevaux_estive_pyrenees.jpg"
 lieu: Ariège... ou Aude.
 event_date: 26-30 juillet
-draft: true
 
 ---
 Pour cette quatrième saison qui s'avance, nous avons besoin de prendre du recul et de la hauteur. C'est ce que nous sommes en train de faire déjà !  
