@@ -2,7 +2,7 @@
 date: 2021-02-11T02:00:00+01:00
 title: Corps accordé(s) - Beltaine 2021
 picture: "/uploads/montage-beltaine-2019.jpg"
-lieu: "... à définir (Ouest)"
+lieu: Centre Bretagne ou Sud de Rennes
 event_date: 7-8-9 mai
 
 ---
@@ -14,8 +14,9 @@ Ce sera la deuxième fois seulement que nous partagerons cet atelier (alors qu'o
 Ce sera tout nouveau puisqu'avec une journée complète de plus grâce à l'Armistice qui tombe près du week-end, puisque nouveau groupe et nouveau lieu aussi... et plus encore tant il est vrai que bien des choses depuis ont bouleversé nos rapports quotidiens à nos corps...  
 Mais nous célébrerons tout de même la fête celte du début de l'été quelques jours après sa date autour du feu, et nous expérimenterons et questionnerons avec pareille conscience l'habit et la santé, le sport et le jeu, le genre et le toucher, l'intime et le public, la danse et la nourriture, la violence et la fluidité - selon ce qui semblera prioritaire à notre groupe.
 
-Atelier résidentiel, participation responsable (minimum requis : de l'ordre de 50€ si on confirme au [Bois du Barde](https://www.leboisdubarde.bzh/))  
-Repas co-créés. Possibilité d'arriver dès le jeudi soir à négocier en direct avec le lieu.  
-On sera libres assez tôt le dimanche pour rentrer chez nous avant la nuit si on habite la région.  
-  
+Le contenu précis est en construction : pour la première fois dans l'histoire de notre jeune "collectif", nous avons décidé de convier d'autres facilitateur-ice-s à prendre notre relais pour des sessions d'ouvrages que nous veillerons à articuler toutes ensemble.
+
+Atelier résidentiel, participation responsable (minimum requis raisonnable, que nous confirmions pour le [Bois du Barde](https://www.leboisdubarde.bzh/) ou la [Grange théâtre](https://lagrangetheatre.fr/contact/) de nouveau)  
+Repas co-créés. Possibilité d'arriver dès le jeudi soir. On sera libres assez tôt le dimanche pour rentrer chez nous avant la nuit si on habite la région.
+
 Atelier maintenu quelles que soient les directives sanitaires - mais avec prudence, conscience et ajustements au besoin. Préinscriptions ouvertes : par mail (cf. contact) - attention places très limitées.
