@@ -15,12 +15,12 @@ Ce sera tout nouveau puisqu'avec une journée complète de plus, puisque nouveau
 Mais nous célébrerons tout de même la fête celte du début de l'été (quelques jours après sa date officielle), et nous expérimenterons et questionnerons avec pareille conscience l'habit et la santé, le sport et le jeu, le genre et le toucher, l'intime et le public, la danse et la nourriture, la violence et la fluidité - selon ce qui semblera prioritaire à notre groupe.
 
 Le contenu précis est en construction : pour la première fois dans l'histoire de notre jeune "collectif", nous avons décidé de convier d'autres facilitateur-ice-s à prendre notre relais pour des sessions d'ouvrages que nous veillerons à articuler toutes ensemble.  
-Un groupe nous a envoyé la proposition ci-dessous pour une session de mouvement authentique (une pratique que nous partageons volontiers), et nous sommes en train d'élaborer par ailleurs le programme, avec surement aussi une session sur la roue du consentement.
+Un groupe d'ami-e-s, Jean, Lucile, Yoann proposent une session de mouvement authentique (une pratique que nous partageons volontiers) - voir + de détails dans le texte qu'iels nous ont envoyé, ci-dessous - et nous sommes en train d'élaborer par ailleurs le programme, avec surement aussi une session sur la roue du consentement.
 
 Atelier résidentiel, participation [responsable](https://lesuperflux.fr/2017/09/01/participations-conscientes/) (minimum requis raisonnable, que nous confirmions pour le [Bois du Barde](https://www.leboisdubarde.bzh/) ou la [Grange théâtre](https://lagrangetheatre.fr/contact/) de nouveau)  
 Repas co-créés. Possibilité d'arriver dès le jeudi soir. On sera libres assez tôt le dimanche pour rentrer chez nous avant la nuit si on habite la région.
 
-Atelier maintenu quelles que soient les directives sanitaires - mais avec prudence, conscience et ajustements aux besoins des un-e-s et des autres.   
+Atelier maintenu quelles que soient les directives sanitaires - mais avec prudence, conscience et ajustements aux besoins des un-e-s et des autres.  
 Préinscriptions ouvertes : par mail (cf. contact) - attention places limitées (15 max.)
 
 \***
