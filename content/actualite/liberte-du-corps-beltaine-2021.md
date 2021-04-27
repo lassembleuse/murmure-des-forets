@@ -2,7 +2,7 @@
 date: 2021-02-11T02:00:00+01:00
 title: Corps accordé(s) - Beltaine 2021
 picture: "/uploads/montage-beltaine-2019.jpg"
-lieu: Centre Bretagne ou Sud de Rennes
+lieu: Thoury (Sud de Rennes) -> la Grange-théâtre
 event_date: 7-8-9 mai
 
 ---
@@ -17,8 +17,8 @@ Mais nous célébrerons tout de même la fête celte du début de l'été (quelq
 Le contenu précis est en construction : pour la première fois dans l'histoire de notre jeune "collectif", nous avons décidé de convier d'autres facilitateur-ice-s à prendre notre relais pour des sessions d'ouvrages que nous veillerons à articuler toutes ensemble.  
 Un groupe d'ami-e-s, Jean, Lucile, Yoann proposent une session de mouvement authentique (une pratique que nous partageons volontiers) - voir + de détails dans le texte qu'iels nous ont envoyé, ci-dessous - et nous sommes en train d'élaborer par ailleurs le programme, avec surement aussi une session sur la roue du consentement.
 
-Atelier résidentiel, participation [responsable](https://lesuperflux.fr/2017/09/01/participations-conscientes/) (minimum requis raisonnable, que nous confirmions pour le [Bois du Barde](https://www.leboisdubarde.bzh/) ou la [Grange théâtre](https://lagrangetheatre.fr/contact/) de nouveau)  
-Repas co-créés. Possibilité d'arriver dès le jeudi soir. On sera libres assez tôt le dimanche pour rentrer chez nous avant la nuit si on habite la région.
+Atelier résidentiel, participation [libre et responsable](https://lesuperflux.fr/2017/09/01/participations-conscientes/) (intégrant contribution pour les trois jours sur le lieu d'accueil et d'hébergement en tente ou en bungalow la [Grange théâtre](https://lagrangetheatre.fr/contact/), et la contribution pour l'équipe de facilitation).  
+Repas co-créés tirés des cagettes que chacun-e amène. Possibilité d'arriver dès le jeudi soir. On démarre le vendredi à 10h. On sera libres vers 17h le dimanche pour rentrer chez nous avant la nuit (si on habite la région du moins).
 
 Atelier maintenu quelles que soient les directives sanitaires - mais avec prudence, conscience et ajustements aux besoins des un-e-s et des autres.  
 Préinscriptions ouvertes : par mail (cf. contact) - attention places limitées (15 max.)
