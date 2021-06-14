@@ -8,7 +8,7 @@ event_date: 26-30 juillet
 ---
 _Séjour au vert & Accompagnements des transitions personnelles, collectives et sociales_
 
-Du lundi 26 au vendredi 30 juillet à Picotalent – un lieu magnifique sur 40 hectares en Ariège – Sonia, Amans et Murmure des forêts proposent des accompagnements pour les individu·e·s ou les couples & autres collectifs « en transition » : pour une séance ponctuelle, ou pour un parcours avec plusieurs séances sur la semaine, avec les outils & pratiques habituellement proposés en atelier ou d’autres : mouvement authentique, CNV, travail qui relie, écoute profonde, contemplations intérieures & extérieures, constellations, etc.
+**Du lundi 26 au vendredi 30 juillet** à Picotalent – un lieu magnifique sur 40 hectares **en Ariège** – Sonia, Amans et Murmure des forêts proposent des accompagnements pour les individu·e·s ou les couples & autres collectifs « en transition » : pour une séance ponctuelle, ou pour un parcours avec plusieurs séances sur la semaine, avec les outils & pratiques habituellement proposés en atelier ou d’autres : mouvement authentique, CNV, travail qui relie, écoute profonde, contemplations intérieures & extérieures, constellations, etc.
 
 Le cadre nous permettra d’offrir les séances soit en pleine nature soit dans un espace fermé et intime, et le reste du temps sera libre. On pourra peut-être aussi partager des repas, des chants, des baignades dans la piscine naturelle et des balades dans la montagne. Tout cela permettra à la fois de prendre du recul, d’intégrer les propositions et de cheminer. 
 
