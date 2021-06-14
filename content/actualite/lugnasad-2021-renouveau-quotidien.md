@@ -1,5 +1,5 @@
 ---
-date: 2021-04-08T00:00:00+02:00
+date: 2021-06-01T00:00:00+02:00
 title: Renouveaux & quotidien - Lugnasad 2021
 picture: "/uploads/chevaux_estive_pyrenees.jpg"
 lieu: Picotalent (proche Mirepoix, Ariège, Pyrénées)
