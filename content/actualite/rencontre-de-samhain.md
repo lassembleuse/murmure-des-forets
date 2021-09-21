@@ -18,4 +18,4 @@ Inscriptions par mail : murmuredesforets at riseup.net
 
 Qu'avons-nous à proposer, dans ces conditions ?
 
-Nous ressentons actuellement le besoin d'observer, de partager des actions locales et d'envisager les suites en réduisant et reconsidérant les propositions. Nous en donnerons des nouvelles ! et restons cependant disponibles d'ici-là pour les collectifs ou les personnes qui auraient besoin d'un accompagnement spécifique.
+Nous ressentons actuellement le besoin d'observer, de partager des actions locales et d'envisager les suites en réduisant et reconsidérant les propositions. Nous en donnerons des nouvelles, si tout va bien ! et restons cependant disponibles d'ici-là pour les collectifs ou les personnes qui auraient besoin d'un accompagnement spécifique.
