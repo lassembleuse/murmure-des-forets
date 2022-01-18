@@ -3,7 +3,7 @@ date: 2022-01-18T00:00:00+01:00
 title: Parcours Soutien & Résonnance
 picture: "/uploads/leaves-g00b7e8f91_1280.jpg"
 lieu: à distance
-event_date: 28 janvier - 17 juin (un vendredi soir / mois 18h30-20h30)
+event_date: 28 janvier - 17 juin 2022 (un vendredi soir / mois 18h30-20h30)
 
 ---
 **Parcours Soutien et Résonnances**
