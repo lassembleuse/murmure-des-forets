@@ -39,7 +39,6 @@ L’engagement est demandé aussi sur les dates suivantes : 25 mars, 22 avril, 2
 
 Nous nous retrouverons en visioconférence via [Bbb fourni par Paquerette](https://paquerette.eu/visio-bbb/) : la solution qui nous a semblé la plus juste éthiquement, fonctionnelle et inclusive.
 
-Inscription indispensable :   
-<iframe id="haWidget" allowtransparency="true" src="[https://www.helloasso.com/associations/7-8-hertz/evenements/inscription-soutien-et-resonnance/widget-bouton](https://www.helloasso.com/associations/7-8-hertz/evenements/inscription-soutien-et-resonnance/widget-bouton "https://www.helloasso.com/associations/7-8-hertz/evenements/inscription-soutien-et-resonnance/widget-bouton")" style="width: 100%; height: 70px; border: none;"></iframe>
-
+Inscription indispensable, [par ici en ligne via Hello Asso](https://www.helloasso.com/associations/7-8-hertz/evenements/inscription-soutien-et-resonnance) (ou au besoin en envoyant un chèque et les infos utiles par courrier : nous contacter)  
+  
 \* Les horizons sont incertains, et nous ajusterons bien sûr ces programmes, aux besoins.
