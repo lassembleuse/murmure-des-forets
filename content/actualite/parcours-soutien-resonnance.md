@@ -33,10 +33,13 @@ Des invitations à nous relier au silence et au non-humain
 
 Un vendredi soir par mois, 18h30-20h30* :
 
-28 janvier : présentation et ouverture  
-25 février : il est possible de nous rejoindre avec un temps d’échange dédié  
-L’engagement sera demandé sur les dates suivantes : 25 mars, 22 avril, 20 mai, 17 juin.
+Le 28 janvier a eu lieu un temps de présentation et d'ouverture.  
+Pour rejoindre le parcours à partir du 25 février, nous proposerons un temps d’échange dédié afin de tester l'outil numérique.  
+L’engagement est demandé aussi sur les dates suivantes : 25 mars, 22 avril, 20 mai, 17 juin.
 
 Nous nous retrouverons en visioconférence via [Bbb fourni par Paquerette](https://paquerette.eu/visio-bbb/) : la solution qui nous a semblé la plus juste éthiquement, fonctionnelle et inclusive.
+
+Inscription indispensable :   
+<iframe id="haWidget" allowtransparency="true" src="[https://www.helloasso.com/associations/7-8-hertz/evenements/inscription-soutien-et-resonnance/widget-bouton](https://www.helloasso.com/associations/7-8-hertz/evenements/inscription-soutien-et-resonnance/widget-bouton "https://www.helloasso.com/associations/7-8-hertz/evenements/inscription-soutien-et-resonnance/widget-bouton")" style="width: 100%; height: 70px; border: none;"></iframe>
 
 \* Les horizons sont incertains, et nous ajusterons bien sûr ces programmes, aux besoins.
