@@ -1,6 +1,6 @@
 ---
 date: 2022-05-23T00:00:00+02:00
-title: Travail qui relie et CNV
+title: Travail qui relie et Communication non-violente
 picture: "/uploads/TQR CNV avril 2020 visuel.jpg"
 lieu: Concoret, Brocéliande
 event_date: 30-31 juillet & 1er août
