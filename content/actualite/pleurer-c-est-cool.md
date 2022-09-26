@@ -1,5 +1,5 @@
 ---
-date: 
+date: 2022-09-24T00:00:00+02:00
 title: Pleurer c'est cool
 picture: "/uploads/pleurer-c-cool.png"
 lieu: Brocéliande
