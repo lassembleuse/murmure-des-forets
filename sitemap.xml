@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.murmuredesforets.fr/actualite/</loc>
-    <lastmod>2022-09-24T00:00:00+02:00</lastmod>
+    <lastmod>2022-05-23T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -32,11 +32,6 @@
   <url>
     <loc>https://www.murmuredesforets.fr/pages/sitemap/</loc>
     <lastmod>2019-08-01T13:17:31+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.murmuredesforets.fr/actualite/pleurer-c-est-cool/</loc>
-    <lastmod>2022-09-24T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -167,6 +162,10 @@
   
   <url>
     <loc>https://www.murmuredesforets.fr/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.murmuredesforets.fr/actualite/pleurer-c-est-cool/</loc>
   </url>
   
   <url>
