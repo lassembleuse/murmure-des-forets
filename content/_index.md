@@ -14,7 +14,7 @@ blocks:
   picture: "/uploads/kids-planting-hands-800-849x300.jpg"
 - titre: Accompagnement à la transition
   description: |-
-    Nous voulons contribuer à l'émergence d'un nouveau monde humain, dans toutes les dimensions d'une culture écologique et sociale saine - telles qu'elles apparaissent par exemple dans la fleur de la permaculture (alimentation, habitat, santé, économie, arts, technologies, etc.) - en développant notre sensibilité, en approfondissant notre intelligence des relations et notre compréhension du Vivant.
+    Nous accompagnons l'émergence d'un nouveau monde humain, dans toutes les dimensions d'une culture écologique et sociale saine - telles qu'elles apparaissent par exemple dans la fleur de la permaculture (alimentation, habitat, santé, économie, arts, technologies, etc.) - en développant notre sensibilité, en approfondissant notre intelligence des relations et notre compréhension du Vivant.
 
     Les ateliers et parcours que nous proposons sont transdisciplinaires et expérientiels. Le vécu collectif nous semble aussi important que les approches formelles. Nous veillons à l'équivalence, et à tenir une posture de co-facilitation ajustée aux réels besoins en présence.
 
