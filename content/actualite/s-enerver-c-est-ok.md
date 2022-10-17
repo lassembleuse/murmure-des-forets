@@ -2,13 +2,13 @@
 date: 2022-09-25T00:00:00+02:00
 title: S'énerver c'est ok
 picture: "/uploads/senerver-c-ok.png"
-lieu: Brocéliande
+lieu: Nord Brocéliande - Muel (35)
 event_date: 14-15 janvier
 
 ---
-**... et si on changeait notre rapport aux émotions ?**  
-  
-Atelier sur deux jours complets, avec "nos" façons d'approcher la co-écoute, la CNV holistique, le clown, le mouvement, le son, les pratiques méditatives...
+**... et si on changeait notre rapport aux émotions ?**
+
+Atelier sur deux jours complets (9h30-17h), avec "nos" façons d'approcher la co-écoute, la CNV holistique, le clown, le mouvement, le son, les pratiques méditatives...
 
 _Conditions pratiques :_ Participation financière [libre et consciente](https://lesuperflux.fr/2017/09/01/participations-conscientes/),  
 Repas du midi partagés tirés de nos paniers,  
