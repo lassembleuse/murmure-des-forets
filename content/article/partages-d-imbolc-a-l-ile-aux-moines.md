@@ -3,7 +3,7 @@ title: Partages d'Imbolc à l'île aux moines
 date: 2021-03-15T00:00:00+01:00
 
 ---
-recueil semi-collectif autour de l'atelier des 30-31 janvier 2021
+Recueil semi-collectif autour de l'atelier des 30-31 janvier 2021
 
 ### Avant
 
@@ -30,12 +30,12 @@ Brigitte : traducteurs traduisez !
 ### Pendant
 
 Le principal mystère  
-               c'est le langage
+c'est le langage
 
 La plus bouleversante incarnation  
-                le rythme utérin  
-            la complainte utérine  
-              le chant du corps vivant
+le rythme utérin  
+la complainte utérine  
+le chant du corps vivant
 
 Forcer l'impolitesse : étrange stratégie de conscientisation ?  
 Rudoyer Brutaliser Frustrer vie envie vide avide Forcer Épanouir & nuire -> ruines  
@@ -56,11 +56,11 @@ l'espace & l'intimité (l'équilibre aussi comme toujours à l'autre bout du paq
 À voir comment je fais sécher mes habits oui j'ai besoin d'espace !
 
 Il faut dire que j'ai compris quelque chose sur moi, sur nous, sur la vie :  
- tu ne peux pas être intime avec elle  
- sans toucher son humidité  
- tout ce qui est intime est mouillé (ou doit l'être parfois)  
- et je ne parle pas que des émonctoires  
- même si je parle aussi d'eux
+tu ne peux pas être intime avec elle  
+sans toucher son humidité  
+tout ce qui est intime est mouillé (ou doit l'être parfois)  
+et je ne parle pas que des émonctoires  
+même si je parle aussi d'eux
 
 Spécificité de l'écologie profonde : pratiquer le noble silence les Yeux Ouverts
 
