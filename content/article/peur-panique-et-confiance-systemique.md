@@ -1,14 +1,14 @@
 ---
 title: Peur, panique et confiance, systémique
-date: 2020-10-06T00:00:00+02:00
+date: 2020-10-06T00:00:00.000+02:00
 
 ---
-De tout ce qui nous traverse ou nous habite, la peur est sans doute l’émotion la plus insaisissable, celle qui agit le plus facilement inconsciemment – s’appuyant sur des systèmes cervicaux archaïques (reptilien et limbique), comme le font d’ailleurs les autres mouvements émotionnels, de l’agacement à l’enthousiasme, du désespoir à la frustration.
+De tout ce qui nous traverse ou nous habite, la peur est sans doute l’émotion la plus insaisissable, celle qui agit le plus souvent inconsciemment – s’appuyant sur des systèmes cervicaux archaïques (reptilien et limbique), comme le font d’ailleurs les autres mouvements émotionnels, de l’agacement à l’enthousiasme, du désespoir à la frustration.
 
 Seule une veille profonde de la conscience nous permet d’agir sans être manipulé-e-s par nos peurs inconscientes. Ce n’est qu’en les mettant en lumière que nous pouvons orienter nos actes avec lucidité sur ce qui constitue le bien commun (qui est aussi celui de chacun-e).
 
 Ainsi nous partageons cet article* aussi attentivement que possible aux peurs que suscitent en nous les actualités liées à « la Covid » mais surtout à ses conséquences sociétales. Certaines semblent assez terribles ! Menaces totalitaires, transhumanisme vaccinal, psychoses voire rages collectives dans un contexte global d’effondrement systémique… En as-tu peur, toi aussi ?  
-Pour répondre vraiment à une telle question, mieux vaut sans doute y regarder à deux fois en soi.
+Pour répondre vraiment à une telle question, mieux vaut sans doute regarder à deux fois en soi.
 
 Certes, il me faut aussi écouter les autres, et être attentif-ve aux peurs que je risque de provoquer chez elleux ! Cependant, mettre à jour des peurs qui sont _déjà là_, ce n’est pas les provoquer… est-ce risquer de les alimenter, ou au contraire contribuer à les traiter de façon plus saine ? La réponse n’est pas tranchée d’avance, et dépend sans doute de la façon dont on s’y prend. Comment nous ajuster aux crises en cours, sans semer davantage de panique ? Comment partager les informations justes en prenant soin des réactions que cela peut déclencher ?
 
@@ -24,4 +24,4 @@ Accueillir et être accueilli-e-s. Écouter les peurs, les rages et les désespo
 
 \* C’est une version amendée (améliorée et tronquée) d’un article du superflux.fr : cf. [http://lesuperflux.fr/2020/09/02/totale-mascarade/](http://lesuperflux.fr/2020/09/02/totale-mascarade/ "http://lesuperflux.fr/2020/09/02/totale-mascarade/")
 
-\** Ainsi Francisco Goya baptisa-t-il en 1799 une de ses eaux-fortes : _El sueño de la razon produce monstruos (_« le sommeil de la raison engendre des monstres »). Comme quoi on peut être habile en phrases en même temps qu’en couleurs. Il explicite ainsi : « L'imagination sans la raison produit des monstres impossibles: unie avec elle, elle est mère des arts et à l'origine des merveilles. _»_
+\** Ainsi Francisco Goya baptisa-t-il en 1799 une de ses eaux-fortes : _El sueño de la razon produce monstruos_ (« le sommeil de la raison engendre des monstres »). Comme quoi on peut être habile en phrases en même temps qu’en couleurs. Il explicite ainsi : « L'imagination sans la raison produit des monstres impossibles: unie avec elle, elle est mère des arts et à l'origine des merveilles. _»_
