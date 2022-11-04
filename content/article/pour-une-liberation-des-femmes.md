@@ -17,7 +17,7 @@ Sans repos, l’action s’épuise, perd de sa saveur.
 Sans silence les mots perdent de leurs sens, la parole devient creuse.  
 Sans reconnaissance de notre interdépendance, l’autonomie a un goût amer.  
 ... mais aussi...  
-Sans force, la sensibilité nous étouffe ou sans fermeté, la douceur devient mollesse.  
-  
+Sans force, la sensibilité nous étouffe ou sans fermeté, la douceur devient mollesse.
+
 J’aspire surtout à un monde où que l’on ait un pénis, une vulve, un peu des deux ou rien du tout, on puisse explorer toutes ces différentes qualités d’énergie sans préférences et sans jugements.  
 Puissions nous vivre dans une société où on se rende compte que chaque polarité est nécessaire pour créer un monde harmonieux où chacun-e a la place de se réaliser et de s’épanouir dans le respect de toutes les formes de vie.
