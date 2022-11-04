@@ -1,7 +1,6 @@
 ---
 title: Un monde... sous anesthésie émotionnelle ?
 date: 2022-11-03T00:00:00+01:00
-draft: true
 
 ---
 **Être & devenir sensible aujourd’hui relève de l’acte politique puissant, de l’affranchissement des dogmes en vigueur, de la promesse d'un monde plus humain.**
