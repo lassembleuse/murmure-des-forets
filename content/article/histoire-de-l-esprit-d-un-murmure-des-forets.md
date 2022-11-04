@@ -1,8 +1,10 @@
 ---
 title: Histoire de l'esprit d'un murmure des forêts
-date: 2019-05-05T00:00:00+02:00
+date: 2019-05-05T00:00:00.000+02:00
 
 ---
+_Lettre d'un participant de notre atelier "Nos corps, des héros !?" à Beltaine en 2020 :_
+
 L’obsolescence ici concerne la société du système. Faites demi-tours, et venez en moi, histoire que je vous murmure au creux de vos âmes les puissances inconnues, plutôt les puissances perdues !
 
 Laissez vos esprits s’enfuir, laissez-les revenir, laissez-les plâner car les vents des murmures vous porterons, vous libérerons ou vous emprisonnerons pour vous éveiller.
