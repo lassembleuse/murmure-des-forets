@@ -27,6 +27,6 @@ Que nos engagements soit spirituels, politiques ou les deux, l’ouvrage émotio
 
 \*
 
-Mêmes contenus que l'atelier "Pleurer c'est cool" en novembre (avec un léger focus colère en l'occurrence... mais dans les deux cas on abordera aussi la peur avec joie)  
+Mêmes contenus que l'atelier "Pleurer c'est cool" en novembre (il n'y a pas vraiment de focus "colère" ou "tristesse" en réalité... et dans les deux cas on abordera aussi la peur avec joie !)  
 Ces deux ateliers ouvrent la possibilité de s'engager dans un parcours approfondi : _Conscience émotionnelle,_ en lien avec nos engagements de vie.  
 Idem en présence un samedi par mois de janvier à juillet (28 janvier, 25 février, 25 mars, et autres dates à définir avec le groupe), plus d'infos à venir.
