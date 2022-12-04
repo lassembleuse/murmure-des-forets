@@ -1,7 +1,7 @@
 ---
 date: 2022-09-25T00:00:00+02:00
 title: S'énerver c'est ok
-picture: "/uploads/senerver-c-ok.png"
+picture: "/uploads/montage-angry-cartoons-2.png"
 lieu: Nord Brocéliande - Muel (35)
 event_date: 14-15 janvier
 
