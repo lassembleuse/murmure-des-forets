@@ -1,7 +1,7 @@
 ---
 date: 2022-09-24T00:00:00+02:00
 title: Pleurer c'est cool
-picture: "/uploads/senerver-c-ok.png"
+picture: "/uploads/imageadopleurs.jpg"
 lieu: Nord Brocéliande - Muel 35
 event_date: 19-20 novembre
 
