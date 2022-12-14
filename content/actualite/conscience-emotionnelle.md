@@ -6,7 +6,7 @@ lieu: Brocéliande - Concoret (56)
 event_date: Un samedi par mois de janvier à juillet
 
 ---
-Un parcours approfondi, ouvert aux personnes qui ont fait avec nous une initiation (cf. actualités "Pleurer c'est cool" ou "s'énerver c'est ok) ou qui ont déjà un engagement fort dans la pratique (co-écoute, CNVh, clown-théâtre etc.), au carrefour des transformations personnelles et sociales.
+Un parcours approfondi, ouvert aux personnes qui ont fait avec nous une initiation (cf. actualités "Pleurer c'est cool ou s'énerver c'est ok") ou qui ont déjà un engagement fort dans la pratique (co-écoute, CNVh, clown-théâtre etc.), au carrefour des transformations personnelles et sociales.
 
 Repas coopératifs, nouveaux modes de participation financière à l'étude.  
 Dans [un lieu dédié](https://maliguene-broceliande.fr/) à l'écologie pratique et profonde.  
