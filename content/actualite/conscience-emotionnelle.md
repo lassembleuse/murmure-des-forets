@@ -1,7 +1,7 @@
 ---
 date: 2022-10-15T00:00:00+02:00
 title: Conscience émotionnelle
-picture: "/uploads/metisse-stop.webp"
+picture: "/uploads/metisse-stop.jpg"
 lieu: Brocéliande - Concoret (56)
 event_date: Un samedi par mois de janvier à juillet
 
