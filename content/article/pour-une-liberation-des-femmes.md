@@ -3,7 +3,7 @@ title: Pour une « libération » des femmes ?
 date: 2014-02-03T00:00:00+01:00
 
 ---
-Pour une libération des femmes qui ne soit pas un renforcement de la valorisation des valeurs « masculines ».  
+Pour une libération des femmes qui ne soit pas un renforcement de la valorisation des valeurs «masculines».  
 Je rêve d’une libération des femmes qui leur permette de se sentir libre d’être elles-mêmes, de ne pas avoir à ressembler au modèle masculin dominant et valorisé pour se sentir à égalité.  
 Une libération où ce n’est pas nécessaire d’être active, froide, détachée, de pouvoir parler de sexe sans sensibilité, d’être entreprenante, courageuse, forte, indépendante, reconnue socialement pour sa réussite, combattante ou combative, forte, ambitieuse, de parler avec aisance et confiance pour pouvoir être considéré autant qu’un homme.
 
