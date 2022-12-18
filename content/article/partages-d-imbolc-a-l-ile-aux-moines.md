@@ -64,7 +64,7 @@ même si je parle aussi d'eux
 
 Spécificité de l'écologie profonde : pratiquer le noble silence les Yeux Ouverts
 
-J'étais déjà venu sur cette île / il y a longtemps / j'ai reconnu soudain / le chemin (ou plutôt son détour...) évitant une maison laide (ugly like a gun) / pareil : la fin avait semblé plus longue que le début de la marche, promenade qui devient promenarrrg
+J'étais déjà venu sur cette île / il y a longtemps / j'ai reconnu soudain / le chemin (ou plutôt son détour...) évitant une maison laide (_ugly like a gun_) / pareil : la fin avait semblé plus longue que le début de la marche, promenade qui devient promenarrrg
 
 à côté de moi assis à la table en rentrant je retrouve mon bonnet / les couvre-chefs aussi font des blagues / à l'heure du couvre-feu / je te regarde / tu as / les yeux fermés (tu ne sais pas) / un bonnet rouge & beaucoup de grâce
 
