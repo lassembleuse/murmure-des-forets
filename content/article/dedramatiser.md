@@ -1,6 +1,6 @@
 ---
 title: Dédramatiser
-date: 2022-12-17T00:00:00+01:00
+date: 2022-12-16T00:00:00+01:00
 
 ---
 Le drame, en co-écoute, c’est quand au lieu de décharger une tension, de laisser l’émotion se libérer, on s’y attache, on la regarde comme quelque chose de central ou de beau en tant que tel. Alors on l’intellectualise, on en parle des heures, on la critique, on s’en plaint certes mais quelque part on la trimballe. Au fond, on s’y complait.
