@@ -1,6 +1,6 @@
 ---
 title: Nos corps, des héros !?
-date: 2019-03-13T00:00:00+01:00
+date: 2019-03-13T00:00:00.000+01:00
 
 ---
 En quoi le corps est-il si essentiel, un carrefour, un territoire à (re-)conquérir pour « transitionner » vers une société plus respectueuse du vivant sous toutes ses formes : sous quels angles pouvons-nous aborder ce navire, c’est-à-dire comment mettre en question cette thématique ?
@@ -24,3 +24,5 @@ Savourer sa beauté et son intelligence propres, tous les sens en éveil, cela n
 Dans la tourmente émotionnelle d’une époque éprouvante (où nous sommes capables d’anéantir toute vie sur cette planète), nos corps vivants, sensibles, exposés, sont le réceptacle, le bout de la chaîne. Polluants accumulés, stress au travail, violences intimes et menaces d’effondrements… avec tout cela nous vivons, et nous rayonnons parfois. L’alchimie s’opère, héroïquement au quotidien.
 
 À travers une attention vitale à sa présence, à sa vérité, nous cherchons à redonner au corps sa juste dimension dans l’équilibre systémique global, afin qu’il nous inspire avec justesse dans tous nos engagements.
+
+_Cet article a aussi été publié ! aux débuts de l'aventure de la revue Yggdrasil, grâce et Merci à Yvan Pablo et toute l'équipée_
