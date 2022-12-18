@@ -25,4 +25,4 @@ Dans la tourmente émotionnelle d’une époque éprouvante (où nous sommes cap
 
 À travers une attention vitale à sa présence, à sa vérité, nous cherchons à redonner au corps sa juste dimension dans l’équilibre systémique global, afin qu’il nous inspire avec justesse dans tous nos engagements.
 
-_Cet article a aussi été publié ! aux débuts de l'aventure de la revue Yggdrasil, grâce et Merci à Yvan Pablo et toute l'équipée_
+_Cet article a aussi été publié ailleurs, aux débuts de l'aventure de la revue Yggdrasil, grâce et Merci à Yvan Pablo et toute l'équipée_
