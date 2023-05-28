@@ -1,7 +1,7 @@
 ---
 date: 2023-03-25T00:00:00+01:00
 title: Conseil de tous les êtres
-picture: "/uploads/fairy-ring-2.jpg"
+picture: "/uploads/fourmis-equilibre.jpg"
 lieu: Concoret (56) - Brocéliande
 event_date: 6-7-8 mai 2023
 
@@ -16,8 +16,8 @@ _Lorsque nous aurons écouté au point d'en être changé-e-s_, nous nous retrou
 
 Tout ce processus sera vécu dans notre petit pays rural, que nombre de gens appellent par ici simplement "la forêt" - de sorte que les êtres que nous aurons rencontré-e-s alors, nous qui sommes de par là, pourrons continuer - peut-être - à les fréquenter.
 
-Contactez-nous si vous souhaitez vous inscrire, en indiquant vos coordonnées, vos élans et vos besoins.  
-En pratique, ça aura lieu dans un lieu dédié à l'écologie pratique et au travail sur soi, [la Maliguène](https://maliguene-broceliande.fr/) à Concoret ( Nord-est 56). Il y a possibilité d'hébergement sur place (dortoir en yourte, tente ou parking véhicules aménagés), ou à proximité en autonomie. Les repas seront tirés du panier.   
+Contactez-nous si vous souhaitez vous inscrire, en indiquant vos coordonnées, vos élans et vos besoins.
+En pratique, ça aura lieu dans un lieu dédié à l'écologie pratique et au travail sur soi, [la Maliguène](https://maliguene-broceliande.fr/) à Concoret ( Nord-est 56). Il y a possibilité d'hébergement sur place (dortoir en yourte, tente ou parking véhicules aménagés), ou à proximité en autonomie. Les repas seront tirés du panier.
 Nous demandons une participation financière consciente, avec des coûts indicatifs présentés [sur une échelle Fissar]() (que nous pouvons communiquer sur simple demande au préalable à l'inscription, ainsi que d'autres éclaircissements éventuels).
 
 \*comme dans le proverbe aborigène...
