@@ -1,7 +1,7 @@
 ---
 date: 2023-03-25T00:00:00+01:00
 title: Conseil de tous les êtres
-picture: "/uploads/fourmis-equilibre.jpg"
+picture: "/uploads/fairy ring 2 NB finale copyright ok.jpg"
 lieu: Concoret (56) - Brocéliande
 event_date: 6-7-8 mai 2023
 
