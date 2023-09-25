@@ -6,10 +6,20 @@
     <description>Recent content in Actualités on Murmure des forêts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://www.murmuredesforets.fr/actualite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nouvelle saison !</title>
+      <link>https://www.murmuredesforets.fr/actualite/ecriture2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.murmuredesforets.fr/actualite/ecriture2023/</guid>
+      <description>Murmure des forêts se concentre sur son ouvrage de formalisation ces prochains mois ! Nous publierons sous l&amp;rsquo;onglet &amp;ldquo;&amp;nbsp;Articles&amp;nbsp;&amp;rdquo; les pépites issues de nos recherches de ces dernières années et de nos explorations actuelles. Avez-vous déjà lu ce que nous y avons publié depuis 2018 ?
+Par ailleurs, nous proposons toujours des accompagnements dédiés, aux personnes et aux collectifs (la version actuellement en ligne du doc de présentation n&amp;rsquo;est pas la plus à jour : nous sommes en train de reprendre la main sur le site via une nouvelle interface&amp;hellip; ce sera corrigé prochainement !</description>
+    </item>
     
     <item>
       <title>Conseil de tous les êtres</title>
