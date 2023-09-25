@@ -18,7 +18,7 @@ blocks:
 
     Les ateliers et parcours que nous proposons sont transdisciplinaires et expérientiels. Le vécu collectif nous semble aussi important que les approches formelles. Nous veillons à l'équivalence, et à tenir une posture de co-facilitation ajustée aux réels besoins en présence.
 
-    Économiquement, jusqu'ici nous avons pratiqué la participation libre et consciente avec bonheur. Nos propositions d'accompagnement sont présentées plus en détail dans la section "Articles"
+    Économiquement, jusqu'ici nous avons pratiqué la participation libre et consciente. Nos propositions d'accompagnement sont présentées plus en détail dans la section "Articles"
   picture: "/uploads/forest-4395993_1920.jpg"
 - titre: Quatre saisons et co-créations
   description: |-
