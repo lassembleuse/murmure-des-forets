@@ -26,7 +26,8 @@ Anne, cadre RSE, coach, sophrologue, animatrice de cercles de paroles pour perso
 
 De belles découvertes et expériences avec murmures des forêts! 
 Un espace soutenant sur le chemin, invitant à écouter en soi, et autour de soi, avec soi, avec l’autre, les autres, ce qui nous entoure (...) 
-J ai été très touchée par la qualité de présence de Sonia et Amans: disponibilité, humilité, intuitions. Le rituel collectif en lien avec le travail qui relie a été pour moi un temps riche en libération et en connexion profonde aux autres êtres dans notre humanité commune...
+J ai été très touchée par la qualité de présence de Sonia et Amans: disponibilité, humilité, intuitions. 
+Le rituel collectif a été pour moi un temps riche en libération et en connexion profonde aux autres êtres dans notre humanité commune...
 
 Batia, Mère, Chanteuse, Conteuse, Animatrice.
 (Travail qui relie, mai 2022)
