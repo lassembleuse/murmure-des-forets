@@ -1,6 +1,6 @@
 ---
 title: "Quelques retours..."
-date: 2022-12-17T00:00:00+01:00
+date: 2023-11-07T00:00:00+01:00
 
 ---
 Des participant-e-s à nos ateliers ont fait, à notre demande, des retours sur nos travaux. Les voici :
