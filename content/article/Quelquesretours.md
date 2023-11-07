@@ -25,12 +25,13 @@ Anne, cadre RSE, coach, sophrologue, animatrice de cercles de paroles pour perso
 *
 
 De belles découvertes et expériences avec murmures des forêts! 
-Un espace soutenant sur le chemin, invitant à écouter en soi, et autour de soi, avec soi, avec l’autre, les autres, ce qui nous entoure...
-(...) J ai été très touchée par la qualité de présence de Sonia et Amans: disponibilité, humilité, intuitions.Le rituel collectif en lien avec le travail qui relie a été pour moi un temps riche en libération et en connexion profonde aux autres êtres dans notre humanité commune.
-Merci pour votre implication et pour la beauté de vos intentions.
+Un espace soutenant sur le chemin, invitant à écouter en soi, et autour de soi, avec soi, avec l’autre, les autres, ce qui nous entoure (...) 
+J ai été très touchée par la qualité de présence de Sonia et Amans: disponibilité, humilité, intuitions. Le rituel collectif en lien avec le travail qui relie a été pour moi un temps riche en libération et en connexion profonde aux autres êtres dans notre humanité commune...
 
 Batia, Mère, Chanteuse, Conteuse, Animatrice.
+(Travail qui relie, mai 2022)
 
+*
 
 Enfin, une cousine a réalisé [un petit reportage audio] (https://timbrefm.fr/les-emissions/zoom-le-conseil-de-tous-les-etres-avec-murmure-des-forets/) sur Murmure des forêts, avant de participer elle-même à ce Conseil de tous les êtres…
-Merci L. ! et merci à Timbre FM aussi, cette super radio locale qui l’a diffusé (en espérant que c'est encore en ligne).
+Merci Louise ! et merci à Timbre FM aussi, cette super radio locale qui l’a diffusé (en espérant que c'est encore en ligne).
