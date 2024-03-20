@@ -1,11 +1,14 @@
 ---
 date: 2024-01-18T00:00:00+01:00
-title: "Travail qui relie : base interâge & approfondissement"
+title: "TQR base + Patriarcat & organisation : REPORTE"
 picture: "/uploads/fourmis-equilibre.jpg"
 lieu: Concoret (56) ou non loin
-event_date: 4-5 mai 2024 (base) + 6-7 mai (Patriarcat & organisation collective)
+event_date: 2025 ?
 
 ---
+Ce n'est pas une évidence de faire un tel ouvrage en mixité d'âge... et ce n'est pas non plus si facile qu'un lieu approprié pour ce faire résonne avec nos besoins particuliers, dans les environs de chez nous ! En attendant que ça se trouve, aux dates initialement programmées cette année on propose une journée 1/2 réseau, à l'adresse des facilitateurices de Travail qui relie mais aussi d'autres pratiques au carrefour des Transformations personnelles et sociales (cf. autre actu).
+
+*
 
 Sur les deux jours de week-end, nous traverserons la spirale du Travail qui relie, cet ouvrage désormais assez connu qui est décrit [ici](https://lesuperflux.fr/2020/04/13/ecologie-profonde-et-travail-qui-relie/) et en bien d'autres endroits. La particularité de cet atelier sera qu'il s'ouvrira aux jeunes personnes : avec prudence et attention, mais aussi avec courage et conscience, nous ferons en sorte d'intégrer ces humain-es-là, qui héritent à leur tour du monde où nous-plus-ancien-nes naviguons depuis un temps où l'on pouvait encore ignorer l'étendue du désastre. Ce sera évident dans la première et les dernières étapes du processus (ancrer la gratitude, changer de regard & aller de l'avant), et plus délicat dans la seconde (honorer notre souffrance pour la terre).
 Le programme pourra intégrer des activités en non-mixité d'âges, mais s'ajustera en tout cas à la composition du groupe, et nous serons tou-tes aussi des parents les un-es pour les autres : une communauté comme nous aimerions que le soient notre famille et nos entourages, cohérente (ou du moins, en recherche de cohérence) aussi bien d'un point de vue politique que spirituel.
