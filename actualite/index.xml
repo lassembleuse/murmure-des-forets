@@ -6,10 +6,19 @@
     <description>Recent content in Actualités on Murmure des forêts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://www.murmuredesforets.fr/actualite/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Travail qui relie</title>
+      <link>https://www.murmuredesforets.fr/actualite/travailquirelie2025/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.murmuredesforets.fr/actualite/travailquirelie2025/</guid>
+      <description>Bientôt ici plus d&amp;rsquo;infos sur cet atelier à venir</description>
+    </item>
     
     <item>
       <title>Rencontre Réseaux Facilitataires en écologieS profondeS</title>
