@@ -1,6 +1,6 @@
 ---
 title: Nos accompagnements
-date: 2023-11-07T00:00:00+01:00
+date: 2024-11-07T00:00:00+01:00
 
 ---
 Nos propositions d'accompagnement à l'attention des personnes et des collectifs sont présentées dans ce document-ci : 
