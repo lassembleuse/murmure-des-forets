@@ -7,4 +7,4 @@ event_date: "1er-2 février 2025"
 
 ---
 
-Bientôt ici plus d'infos sur cet atelier à venir
+Nous avons décidé de mener cet atelier en cercle semi-ouvert, sur conditions. Si vous êtes fort intéressé-e(s) pour y participer, faites-nous signe ?
