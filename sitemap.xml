@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.murmuredesforets.fr/actualite/</loc>
-    <lastmod>2024-11-06T00:00:00+02:00</lastmod>
+    <lastmod>2025-06-04T00:00:00+02:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -32,6 +32,16 @@
   <url>
     <loc>https://www.murmuredesforets.fr/pages/sitemap/</loc>
     <lastmod>2019-08-01T13:17:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.murmuredesforets.fr/actualite/tqr2025/</loc>
+    <lastmod>2025-06-04T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.murmuredesforets.fr/actualite/ateliers-legers/</loc>
+    <lastmod>2025-05-30T00:00:00+02:00</lastmod>
   </url>
   
   <url>
