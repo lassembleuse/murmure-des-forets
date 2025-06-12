@@ -18,7 +18,7 @@ Dans nos collectifs, la conflictualité n'est pas vraiment une option : les oppr
 
 Nous avons toutes appris et inrégré les méthodes punitives de gestion de conflit et les stratégies "carotte et baton". On sait que ça ne marche pas bien, mais qu'est-ce qu'on connaît d'autre ? Nombre de communautés à travers le monde cherchent des outils et conditions propices à une justice "transformatrice", qui change la donne sociale : d'autres façons de gérer les conflits, les tensions et les violences. Ces approches sont toujours fondées sur le dialogue. Commencer par clarifier où nos pratiques en la matière sont bonnes, où elles sont "toxiques"... est empuissançant pour aller vers des réponses collectivement plus satisfaisantes que ce que proposent les institutions en vigueur ou ce qui s'enflamme dès que des enjeux intimes s'en mêlent (c'est-à-dire, souvent). Partager nos ressources en la matière, aussi !
 
-*
+***
 
 Pour plus d'infos sur le travail qui relie, lire Joanna Macy & Molly Jones (entre moult autres...) ! ou naviguer dans nos articles ou ceux d'Amans sur www.lesuperflux.fr
 Une initiation en deux heures :
