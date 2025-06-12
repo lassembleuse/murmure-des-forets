@@ -8,9 +8,9 @@ event_date: "fin mai 2025"
 ---
 
 À l'excellent festival des Palourdes (parce qu'elles sont légères, nos maisons) 
-nous proposerons / proposâmes deux ateliers
-l'un de travail qui relie - très bref, juste une initiation ! et en voici ci-dessous le déroulé
-l'autre d'approche coopérative des conflits.
+nous proposerons / proposâmes deux ateliers :
+- l'un de travail qui relie - très bref, juste une initiation ! et en voici ci-dessous le déroulé
+- l'autre intitulé "approche coopérative des conflits".
 
 Mais qu'est-ce que cela, approcher coopérativement le conflit ? l'une de nos principales directions ces dernières années, nourrie de systèmes restauratifs, de justice transformatrice, de CNVh et de sociocratie - entre autres. 
 Dans nos collectifs, la conflictualité n'est pas vraiment une option : les oppressions et nos histoires la provoquent, tôt ou tard. Comment faire pour s'y préparer, la traverser ? Pas de recette magique, mais des expériences.
