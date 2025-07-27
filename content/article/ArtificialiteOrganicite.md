@@ -1,4 +1,8 @@
-Artificialité et organicité dans nos pratiques
+---
+title: "Artificialité et organicité dans nos pratiques"
+date: 2025-02-05T00:00:00+01:00
+
+---
 
 Ateliers, stages & accompagnements : toutes ces situations d’abstraction relative ou de pas-de-côté par rapport à nos engagements quotidiens génèrent possiblement deux mouvements contraires :
 
