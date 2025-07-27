@@ -10,7 +10,7 @@
   
   <url>
     <loc>https://www.murmuredesforets.fr/article/</loc>
-    <lastmod>2024-11-07T00:00:00+01:00</lastmod>
+    <lastmod>2025-02-05T00:00:00+01:00</lastmod>
     <priority>0.8</priority>
   </url>
   
@@ -47,6 +47,11 @@
   <url>
     <loc>https://www.murmuredesforets.fr/actualite/ateliers-legers/</loc>
     <lastmod>2025-05-30T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.murmuredesforets.fr/article/artificialiteorganicite/</loc>
+    <lastmod>2025-02-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -238,11 +243,6 @@
   <url>
     <loc>https://www.murmuredesforets.fr/article/pour-une-liberation-des-femmes/</loc>
     <lastmod>2014-02-03T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.murmuredesforets.fr/article/artificialiteorganicite/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
