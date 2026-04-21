@@ -1,6 +1,6 @@
 ---
 date: 2025-08-04T00:00:00+02:00
-title: "Travail qui relie de Beltaine 2026"
+title: "Travail qui relie de Mabon 2026"
 picture: "/uploads/ToileAvoine.jpg"
 lieu: entre Tours et le Mans
 event_date: 18-20 septembre 2026
