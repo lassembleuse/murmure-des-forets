@@ -10,8 +10,11 @@ Le travail qui relie (the Work that reconnects) est un ouvrage en groupe pour é
 
 Un atelier sur le week-end de l'équinoxe, dans l'énergie de Mabon donc (fête celte correspondante, deuxième récolte & bascule), du vendredi 18 septembre en fin d'après-midi (accueil à partir de 17h pour démarrer à 18h30) au dimanche après-midi (clôture vers 16h + aux-revoirs, rangement ménage etc.)
 
-Inscriptions auprès de Murmure des forêts. Ci-dessous les infos partagées par A. coorganisatrice et amie ^^
-À noter aussi qu'on partagera en amont les coordonnées des participant-es (si bien consenti) pour faciliter le covoiturage cogéré.
+Inscriptions auprès de Murmure des forêts. 
+L'atelier sera proposé en participation consciente (cf. https://www.ouvrez.xyz/participations-conscientes/ ...)
+
+Ci-dessous les infos partagées par A. coorganisatrice et amie ^^
+On facilitera du covoiturage cogéré entre les participant-es, entre autres préparation amont.
 
 *
 
