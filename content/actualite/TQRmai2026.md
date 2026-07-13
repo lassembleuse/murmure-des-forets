@@ -24,4 +24,7 @@ L'âme du lieu est hospitalière, voire franchement bienveillante, le silence es
 Autour de la maison, il y a pas mal de balades à faire sur les chemins, au bord des étangs ou dans les petits bois qui sont nombreux à proximité.
 Possibilité de venir en train, idéalement à la gare de Château du Loir (à 25 km /30 minutes) ou sinon Tours, Saint Pierre des corps (1h pour aller vous chercher) ou Le Mans (1h)
 
-Pour les repas, chacun·e amène ce qu'il souhaite partager, la cuisine est fonctionnelle pour 10/15 personnes. Il restera peut-être quelques souvenirs du potager 2025 ou déjà quelques légumes 2026. Si besoin, une commande au magasin de producteurs bio du village (2km) est possible. De même, pour ceux qui ont besoin de plus de confort,un petit hôtel y offre des chambres à 60€/nuit.
+Pour les repas, chacun·e amène ce qu'il souhaite partager, la cuisine est fonctionnelle pour 10/15 personnes. Une commande au magasin de producteurs bio du village (2km) est possible***. De même, pour ceux qui ont besoin de plus de confort,un petit hôtel y offre des chambres à 60€/nuit.
+
+*
+*** sur l'organisation collective concernant la nourriture (repas cuisinés en commun), ainsi que covoiturage et autres, cf. inscription.
