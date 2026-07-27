@@ -6,9 +6,10 @@ lieu: entre Tours et le Mans
 event_date: 18-20 septembre 2026
 ---
 
-Le travail qui relie est un ouvrage* en groupe pour écouter et explorer nos ressentis face à l’ampleur de la crise écologique et sociale. Il s'appuie sur notre amour de la planète et des êtres vivants qui l'habitent et notre aspiration à en prendre soin. Il allie les dimensions corporelles, émotionnelles et spirituelles à notre compréhension rationnelle du monde et à notre implication dans l’action. Par exemple, à travers des activités concrètes, comme une marche méditative sans parole, l'écoute d'un être non humain ou encore une oeuvre artistique collective, nous prenons le temps d'entendre ce qui vit à l'intérieur et à l'expérieur de nous et parfois, d'en exprimer certains aspects.  Ainsi, ces exercices pratiques et ces expériences que propose la démarche du Travail qui relie nous aident à célébrer et renforcer notre lien au vivant et à transformer notre inquiétude, nos rages, nos désespoirs, mais aussi notre curiosité, notre gratitude, notre émerveillement… en engagement créatif. Tout ce "travail" réalisé en commun contribue à l’émergence d’une « éco-conscience » - particulièrement salutaire en cette période de montée du fascisme et de déni consumériste & addictif.
+Le travail qui relie est un ouvrage* en groupe pour écouter et explorer nos ressentis face à l’ampleur de la crise écologique et sociale. Il s'appuie sur notre amour de la planète et des êtres vivants qui l'habitent et notre aspiration à en prendre soin. Il allie les dimensions corporelles, émotionnelles et spirituelles à notre compréhension rationnelle du monde et à notre implication dans l’action. À travers des activités concrètes, comme une marche méditative sans parole, l'écoute d'un être non humain ou une création collective, nous prenons le temps d'entendre ce qui vit à l'intérieur et à l'expérieur de nous et d'en exprimer certains aspects (collectivement, par deux, en solo...) 
+Ces exercices pratiques et ces expériences que propose la démarche du Travail qui relie nous aident à célébrer et renforcer notre lien au vivant et à transformer notre inquiétude, nos rages, nos désespoirs, mais aussi notre curiosité, notre gratitude, notre émerveillement… en engagement créatif. Tout ce "travail" réalisé en commun contribue à l’émergence d’une « éco-conscience » - particulièrement salutaire en cette période de montée du fascisme et de déni consumériste & addictif.
 
-Un atelier sur le week-end de l’équinoxe, dans l’énergie de Mabon, fête celte(**) du vendredi 18 septembre en fin d’après-midi (accueil à partir de 17h pour démarrer à 18h30) au dimanche après-midi (clôture vers 16h + aux-revoirs, rangement ménage etc.)
+Un atelier sur le week-end de l’équinoxe, dans l’énergie de Mabon, fête celte** du vendredi 18 septembre en fin d’après-midi (accueil à partir de 17h pour démarrer à 18h30) au dimanche après-midi (clôture vers 16h + aux-revoirs, rangement ménage etc.)
 
 Inscriptions auprès de Murmure des forêts. 
 L'atelier sera proposé en participation consciente (cf. https://www.ouvrez.xyz/participations-conscientes/ ...)
@@ -27,10 +28,7 @@ Pour les repas, chacun·e amène ce qu’iel souhaite partager, la cuisine est f
 
 *
 
-*
-*** sur l’organisation collective concernant la nourriture (repas cuisinés en commun), ainsi que covoiturage et autres, cf. inscription.
-
-
-Notes : 
-(*) Travail ou ouvrage qui relie (The Work that reconnects) : le mot ouvrage est ici entendu au sens d'expérience créatrice ou de réalisation commune, comme une chorégraphie ou une broderie pourraient être co-créées et réalisées collectivement, en prenant en compte la transformation intérieure des personnes qui auraient contribué et des relations entre elles.
-(**)  Mabon est la fête celte correspondant à l'équinoxe, qui célèbre les dernières récoltes avant l'hiver et la bascule annuelle entre les jours plus longs que les nuits et l'inverse, les nuits plus longues que les jours)
+Notes :
+* Travail ou ouvrage qui relie (The Work that reconnects) : le mot ouvrage est ici entendu au sens d'expérience créatrice ou de réalisation commune, comme une chorégraphie ou une broderie pourraient être co-créées et réalisées collectivement, en prenant en compte la transformation intérieure des personnes qui auraient contribué et des relations entre elles.
+**  Mabon est la fête celte correspondant à l'équinoxe, qui célèbre les dernières récoltes avant l'hiver et la bascule annuelle entre les jours plus longs que les nuits et l'inverse, les nuits plus longues que les jours)
+*** Sur l’organisation collective concernant la nourriture (repas cuisinés en commun), ainsi que covoiturage et autres, plus d'infos lors de l'inscription.
