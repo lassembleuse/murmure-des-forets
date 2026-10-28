@@ -17,11 +17,9 @@ blocks:
     À travers divers exercices comme des jeux, des marches, des temps d’observation, d’écoute ou d’expression… les personnes en présence se relient, trouvent du soutien et régénèrent ainsi leurs modes d’agir et d’être au monde..
 
   picture: "/uploads/forest-4395993_1920.jpg"
-- titre: Actions 
+- titre: Accompagner les conflits
   description: |-
-    Tout au long de la roue de l'année, les fêtes celtes et le mouvement de la nature nous inspirent. Imbolc, Beltaine, Lugnasad & Samain, parfois les solstices ou les équinoxes : nous proposons des cercles et des ateliers ajustés à ces dates et aussi d'autres, à d'autres moments, et des ateliers, rencontres ou parcours spécifiques adaptés aux groupes auprès desquels nous travaillons.
-
-    Dans l'onglet "Actualités", nous partageons nos propositions au fur et à mesure (en principe), et les archives demeurent pour se faire une idée de ce qui déjà a eu lieu.
+    Les conflictualités sont inévitables dans nos communautés. Murmure des forêts accompagne la mise en place de systèmes relationnels - diverses pratiques préventives - pour outiller les groupes & les structures à vivre le plus sereinement possible ces passages nécessaires à l'équilibre et à la dynamique d'un collectif.
   picture: "/uploads/petit bleu 3.JPG"
 temporary_block:
   titre: Site internet ?
