@@ -2,15 +2,13 @@
 title: Page d'accueil
 date: '2019-07-12T11:09:39.000+02:00'
 blocks:
-- titre: Relier les dimensions
+- titre: Articuler les transformations
   description: |-
-    Politique et spirituel, parole et mouvement, quotidien et extraordinaire, engagements dans l'action concrète ou dans la réflexion, le silence et la célébration, l'écologie pratique et l'écologie profonde...
+    Murmure des forêts propose des ateliers, des temps de parole et d'exploration, des accompagnements, des rencontres... à ce carrefour où interagissent épanouissement personnel et transformation sociale.
+    Comment relier en nous et autour de nous les explorations intérieures pour un mieux-être, et les engagements vers un monde socialement juste et respectueux du non-humain ?
+	  Où agir pour contribuer à l’évolution de nos systèmes politiques – tout en prenant soin de nos histoires, nos singularités, notre sens du sacré…
 
-    Entre les humainEs et les autres qu'Humain, entre le futur émergent et l'attention au sens de nos histoires...
-
-    Notre ouvrage est la reliance en présence : tisser avec conscience le complexe écheveau du réel, fils entremêlés.
-
-    Nous détaillons quelques aspects de ce qui se trame ainsi entre les "dimensions", les différents champs de nos vies, dans l'onglet "Articles".
+    Partage d'infos et de ressource, production de contenus des pistes de réflexions, contenus écrits ou multimédia - dans l'onglet "Articles".
   picture: "/uploads/kids-planting-hands-800-849x300.jpg"
 - titre: Accompagnement à la transition
   description: |-
