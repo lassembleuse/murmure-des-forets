@@ -6,7 +6,7 @@ blocks:
   description: |-
     Murmure des forêts propose des ateliers, des temps de parole et d'exploration, des accompagnements, des rencontres... à ce carrefour où interagissent épanouissement personnel et transformation sociale.
     Comment relier en nous et autour de nous les explorations intérieures pour un mieux-être, et les engagements vers un monde socialement juste et respectueux du non-humain ?
-	  Où agir pour contribuer à l’évolution de nos systèmes politiques – tout en prenant soin de nos histoires, nos singularités, notre sens du sacré…
+    Où agir pour contribuer à l’évolution de nos systèmes politiques – tout en prenant soin de nos histoires, nos singularités, notre sens du sacré…
 
     Partage d'infos et de ressource, production de contenus des pistes de réflexions, contenus écrits ou multimédia - dans l'onglet "Articles".
   picture: "/uploads/kids-planting-hands-800-849x300.jpg"
