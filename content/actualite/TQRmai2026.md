@@ -1,9 +1,9 @@
 ---
 date: 2025-08-04T00:00:00+02:00
-title: "Travail qui relie d'équinoxe 2026"
+title: "Travail qui relie de printemps"
 picture: "/uploads/ToileAvoine.jpg"
 lieu: entre Tours et le Mans
-event_date: printemps 2026
+event_date: printemps 2027
 ---
 
 Le travail qui relie est un ouvrage* en groupe pour écouter et explorer nos ressentis face à l’ampleur de la crise écologique et sociale. Il s'appuie sur notre amour de la planète et des êtres vivants qui l'habitent et notre aspiration à en prendre soin. Il allie les dimensions corporelles, émotionnelles et spirituelles à notre compréhension rationnelle du monde et à notre implication dans l’action. À travers des activités concrètes, comme une marche méditative sans parole, l'écoute d'un être non humain ou une création collective, nous prenons le temps d'entendre ce qui vit à l'intérieur et à l'expérieur de nous et d'en exprimer certains aspects (collectivement, par deux, en solo...) 
