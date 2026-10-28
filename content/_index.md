@@ -10,15 +10,14 @@ blocks:
     Où agir pour contribuer à l’évolution de nos systèmes politiques – tout en prenant soin de nos histoires, nos singularités, notre sens du sacré… ?
 
   picture: "/uploads/kids-planting-hands-800-849x300.jpg"
-- titre: Accompagnement à la transition
+- titre: Travail qui relie
   description: |-
-    Nous accompagnons l'émergence d'un nouveau monde humain, dans toutes les dimensions d'une culture écologique et sociale saine - telles qu'elles apparaissent par exemple dans la fleur de la permaculture (alimentation, habitat, santé, économie, arts, technologies, etc.) - en développant notre sensibilité, en approfondissant notre intelligence des relations et notre compréhension du Vivant.
+    On pratique & partage avec des groupes cette approche initiée par Joanna Macy et les communautés de facilitation depuis les années 70.
+    « The Work that reconnects » nous permet d’écouter nos ressentis face à l’ampleur de la crise écologique et sociale. Il allie les dimensions corporelles, émotionnelles et spirituelles à notre compréhension rationnelle du monde et à notre implication dans l’action.
+    À travers divers exercices comme des jeux, des marches, des temps d’observation, d’écoute ou d’expression… les personnes en présence se relient, trouvent du soutien et régénèrent ainsi leurs modes d’agir et d’être au monde..
 
-    Les ateliers et parcours que nous proposons sont transdisciplinaires et expérientiels. Le vécu collectif nous semble aussi important que les approches formelles. Nous veillons à l'équivalence, et à tenir une posture de co-facilitation ajustée aux réels besoins en présence.
-
-    Économiquement, jusqu'ici nous avons pratiqué la participation libre et consciente. Nos propositions d'accompagnement sont présentées plus en détail dans la section "Articles"
   picture: "/uploads/forest-4395993_1920.jpg"
-- titre: Quatre saisons et co-créations
+- titre: Actions 
   description: |-
     Tout au long de la roue de l'année, les fêtes celtes et le mouvement de la nature nous inspirent. Imbolc, Beltaine, Lugnasad & Samain, parfois les solstices ou les équinoxes : nous proposons des cercles et des ateliers ajustés à ces dates et aussi d'autres, à d'autres moments, et des ateliers, rencontres ou parcours spécifiques adaptés aux groupes auprès desquels nous travaillons.
 
